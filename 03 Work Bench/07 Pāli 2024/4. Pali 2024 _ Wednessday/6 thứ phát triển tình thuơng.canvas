@@ -1,0 +1,146 @@
+{
+	"nodes":[
+		{
+			"id":"b16bf9dd06ad8a04",
+			"type":"group",
+			"sideRatio":1.7777777777777777,
+			"styleAttributes":{},
+			"x":660,
+			"y":144,
+			"width":1460,
+			"height":821,
+			"label":"New Slide"
+		},
+		{
+			"id":"4a089cf6628f609c",
+			"type":"group",
+			"sideRatio":1.7777777777777777,
+			"isStartNode":true,
+			"styleAttributes":{},
+			"x":-740,
+			"y":-335,
+			"width":1307,
+			"height":735,
+			"label":"Start Slide"
+		},
+		{
+			"id":"09c7e234776301de",
+			"type":"group",
+			"styleAttributes":{},
+			"x":740,
+			"y":580,
+			"width":420,
+			"height":340,
+			"label":"6 Pháp này"
+		},
+		{
+			"id":"a8c45c6e33366d71",
+			"type":"text",
+			"text":"## (1) Atha kho bhagavā bhikkhū āmantesi:",
+			"styleAttributes":{},
+			"x":720,
+			"y":-300,
+			"width":540,
+			"height":100
+		},
+		{
+			"id":"32e555e2cb6e6ffd",
+			"type":"text",
+			"text":"**atha**: then; and also. (ind.)",
+			"styleAttributes":{},
+			"x":720,
+			"y":-160,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"0140cdea5a91f2e7",
+			"type":"text",
+			"text":"# Rồi Đức Thế Tôn GỌI các tì-kheo",
+			"styleAttributes":{},
+			"x":720,
+			"y":-10,
+			"width":540,
+			"height":90
+		},
+		{
+			"id":"e3570b28a72caf5f",
+			"type":"text",
+			"text":"### “chayime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattanti. \n### Katame cha? \n### Idha, bhikkhave, bhikkhuno mettaṁ kāyakammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca. \n### Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.",
+			"styleAttributes":{},
+			"x":720,
+			"y":200,
+			"width":790,
+			"height":320
+		},
+		{
+			"id":"5b613876d10d2652",
+			"type":"text",
+			"text":"## (1) Atha kho bhagavā bhikkhū āmantesi:\n\n## “chayime, bhikkhave, dhammā sāraṇīyā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattanti. Katame cha? Idha, bhikkhave, bhikkhuno mettaṁ kāyakammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca. Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.\n\n## Puna caparaṁ, bhikkhave, bhikkhuno mettaṁ vacīkammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca. Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.\n\n## Puna caparaṁ, bhikkhave, bhikkhuno mettaṁ manokammaṁ paccupaṭṭhitaṁ hoti sabrahmacārīsu āvi ceva raho ca. Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.\n\n## Puna caparaṁ, bhikkhave, bhikkhu ye te lābhā dhammikā dhammaladdhā antamaso pattapariyāpannamattampi, tathārūpehi lābhehi appaṭivibhattabhogī hoti sīlavantehi sabrahmacārīhi sādhāraṇabhogī. Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.\n\n## Puna caparaṁ, bhikkhave, bhikkhu yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṁvattanikāni tathārūpesu sīlesu sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca. Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.\n\n## Puna caparaṁ, bhikkhave, bhikkhu yāyaṁ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca. Ayampi dhammo sāraṇīyo piyakaraṇo garukaraṇo saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattati.\n\n## Ime kho, bhikkhave, cha sāraṇīyā dhammā piyakaraṇā garukaraṇā saṅgahāya avivādāya sāmaggiyā ekībhāvāya saṁvattanti.",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-285,
+			"width":1080,
+			"height":640
+		},
+		{
+			"id":"48020c70ec259f3b",
+			"type":"text",
+			"text":"# dhammā",
+			"styleAttributes":{},
+			"x":760,
+			"y":600,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"33cfb442355d198f",
+			"type":"text",
+			"text":"# Chayime\n[chayime](https://dpdict.net/?q=chayime#chayime) sandhi. **these six**",
+			"styleAttributes":{},
+			"x":880,
+			"y":740,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"79d6303fd6277b08",
+			"type":"text",
+			"text":"# sāraṇīyā\nptp. **polite; pleasant; charming;**",
+			"styleAttributes":{},
+			"x":1010,
+			"y":1000,
+			"width":260,
+			"height":140
+		},
+		{
+			"id":"f6cd744a8f8fd66a",
+			"type":"text",
+			"text":"[piyakaraṇa](https://dpdict.net/?q=piyakara%E1%B9%87%C4%81#piyakara%E1%B9%87a) adj. **which create affection; creating friendship; which make one loved**",
+			"styleAttributes":{},
+			"x":1010,
+			"y":1180,
+			"width":260,
+			"height":140
+		}
+	],
+	"edges":[
+		{
+			"id":"de745c03e9802009",
+			"styleAttributes":{},
+			"fromNode":"48020c70ec259f3b",
+			"fromSide":"bottom",
+			"toNode":"33cfb442355d198f",
+			"toSide":"left"
+		},
+		{
+			"id":"7ed674788a9da886",
+			"styleAttributes":{},
+			"fromNode":"09c7e234776301de",
+			"fromSide":"bottom",
+			"toNode":"79d6303fd6277b08",
+			"toSide":"left"
+		}
+	],
+	"metadata":{}
+}

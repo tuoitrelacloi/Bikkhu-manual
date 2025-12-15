@@ -1,0 +1,1143 @@
+{
+  "nodes": [
+    {
+      "id": "c894d931fb54cd06",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 1360,
+      "y": 243,
+      "width": 1986,
+      "height": 1117,
+      "label": "New Slide"
+    },
+    {
+      "id": "27c007669704830d",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 3720,
+      "y": 233,
+      "width": 1986,
+      "height": 1117,
+      "label": "New Slide"
+    },
+    {
+      "id": "b04fb7c63419f262",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 1380,
+      "y": 1592,
+      "width": 1986,
+      "height": 1117,
+      "label": "New Slide"
+    },
+    {
+      "id": "6c779a8b3845f1a1",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": -720,
+      "y": 260,
+      "width": 1760,
+      "height": 990,
+      "label": "Start Slide"
+    },
+    {
+      "id": "91440bec4c4724aa",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 4060,
+      "y": 1835,
+      "width": 1716,
+      "height": 965,
+      "label": "New Slide"
+    },
+    {
+      "id": "555c03eef5e3aa64",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": 4060,
+      "y": 3000,
+      "width": 1716,
+      "height": 965,
+      "label": "New Slide"
+    },
+    {
+      "id": "173f77a63e78c38b",
+      "x": 2505,
+      "y": 1819,
+      "width": 775,
+      "height": 300,
+      "type": "group",
+      "label": "2"
+    },
+    {
+      "id": "87a1ab0262a4d876",
+      "x": 1620,
+      "y": 1829,
+      "width": 560,
+      "height": 290,
+      "type": "group",
+      "label": "1"
+    },
+    {
+      "id": "a0a7b0f69285c278",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 4160,
+      "y": 3565,
+      "width": 300,
+      "height": 275,
+      "label": "chủ từ câu trên"
+    },
+    {
+      "id": "3f12c2cb9329d357",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 4160,
+      "y": 2400,
+      "width": 300,
+      "height": 250,
+      "label": "chủ từ câu trên"
+    },
+    {
+      "id": "1dcbab4e530a4dee",
+      "type": "text",
+      "text": "# Andhabhūto ayaṃ loko – tanuk’ettha vipassati\n# Sakunto jālamutto’va – appo saggāya gacchati",
+      "styleAttributes": {},
+      "x": -700,
+      "y": 280,
+      "width": 760,
+      "height": 140
+    },
+    {
+      "id": "6d9b1268f50c9951",
+      "type": "text",
+      "text": "# Saggāya\nGBC, Danh, Nam\n**Cõi trời** / Bầu trời",
+      "styleAttributes": {},
+      "x": 570,
+      "y": 960,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "8ae957cf04cd65d0",
+      "type": "text",
+      "text": "# gacchati\nĐộng\n**ĐI tới**",
+      "styleAttributes": {},
+      "x": 230,
+      "y": 960,
+      "width": 260,
+      "height": 120,
+      "color": "2"
+    },
+    {
+      "id": "cebebb9180616f49",
+      "type": "text",
+      "text": "# appo\nappa - tính.\n**it**",
+      "styleAttributes": {},
+      "x": -245,
+      "y": 1020,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "0e7a132bceb79560",
+      "type": "text",
+      "text": "# (Satto)",
+      "styleAttributes": {},
+      "x": -115,
+      "y": 490,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cd9af844ca82e97e",
+      "type": "text",
+      "text": "# Sakunto\nChim",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 900,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "dc200c2a05b48998",
+      "type": "text",
+      "text": "# tanuko\nTính\n**Ít**",
+      "styleAttributes": {},
+      "x": -70,
+      "y": 580,
+      "width": 170,
+      "height": 120
+    },
+    {
+      "id": "19a61ffe1277787a",
+      "type": "text",
+      "text": "# vipassati\nThấy rõ",
+      "styleAttributes": {},
+      "x": 360,
+      "y": 490,
+      "width": 260,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "69590e13e09acbbb",
+      "type": "text",
+      "text": "### Đoạn kinh 5.5-5.6 (Dhp)\n\n### Andhabhūto ayaṃ loko – tanuk’ettha vipassati\n### Sakunto jālamutto’va – appo saggāya gacchati\n\n### Udakaṃ hi nayanti nettikā – usukārā namayanti tejanaṃ\n### Dāruṃ namayanti tacchakā – attānaṃ damayanti paṇḍitā",
+      "styleAttributes": {},
+      "x": -720,
+      "y": -360,
+      "width": 840,
+      "height": 400
+    },
+    {
+      "id": "5ea370761f47e22d",
+      "type": "text",
+      "text": "## ♦ 174.\n\n## ♦ andhabhūto {andhībhūto (ka.)} ayaṃ loko, tanukettha vipassati.\n\n## ♦ sakuṇo jālamuttova, appo saggāya gacchati.",
+      "styleAttributes": {},
+      "x": 140,
+      "y": -360,
+      "width": 550,
+      "height": 400
+    },
+    {
+      "id": "827c0714c7c7162a",
+      "type": "file",
+      "file": "ZettelKastel/Andhabhūto.md",
+      "styleAttributes": {},
+      "x": -1340,
+      "y": 160,
+      "width": 360,
+      "height": 380
+    },
+    {
+      "id": "661bb76f8cc3023c",
+      "type": "text",
+      "text": "# loko\nDanh, Nam\n**Thế gian**",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 490,
+      "width": 160,
+      "height": 120,
+      "color": "#625483"
+    },
+    {
+      "id": "b4758a315c9c64b9",
+      "type": "text",
+      "text": "# Người tưới ruộng dẫn nước, Người làm cung tên uốn cung tên\n# Người thợ mộc uốn gỗ, Kẻ trí điều phục tâm (Bản thân mình)\n---\nPháp cú, Phẩm hiền trí",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": -360,
+      "width": 620,
+      "height": 400
+    },
+    {
+      "id": "a3b18b2ae9130fcf",
+      "type": "text",
+      "text": "# ayaṃ\nCái này, người này",
+      "styleAttributes": {},
+      "x": -590,
+      "y": 640,
+      "width": 220,
+      "height": 100
+    },
+    {
+      "id": "8676f910ad598e02",
+      "type": "text",
+      "text": "# iva",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 820,
+      "width": 130,
+      "height": 60
+    },
+    {
+      "id": "4c08de138215b92d",
+      "type": "text",
+      "text": "# Andhabhūto\nTính\n**Vô minh, mù quáng**",
+      "styleAttributes": {},
+      "x": -400,
+      "y": 490,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "c86c5cdb697b0142",
+      "type": "text",
+      "text": "# Ettha\nTrạng\n**Ở đây**",
+      "styleAttributes": {},
+      "x": 470,
+      "y": 630,
+      "width": 150,
+      "height": 120
+    },
+    {
+      "id": "e8376b91f5711eb3",
+      "type": "text",
+      "text": "# jālamutto",
+      "styleAttributes": {},
+      "x": -135,
+      "y": 880,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "ce071ec6d8111ff2",
+      "type": "text",
+      "text": "# Andhabhūto ayaṃ loko – tanuk’ettha vipassati\n# Sakunto jālamutto’va – appo saggāya gacchati",
+      "styleAttributes": {},
+      "x": 3940,
+      "y": 270,
+      "width": 760,
+      "height": 140
+    },
+    {
+      "id": "b3eafc15dafa0ac1",
+      "type": "text",
+      "text": "# Andhabhūto\nTính\n**Vô minh, mù quáng**",
+      "styleAttributes": {},
+      "x": 4240,
+      "y": 480,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "be7163ed9864352e",
+      "type": "text",
+      "text": "# loko\nDanh, Nam\n**Thế gian**",
+      "styleAttributes": {},
+      "x": 3980,
+      "y": 480,
+      "width": 160,
+      "height": 120,
+      "color": "#625483"
+    },
+    {
+      "id": "19e0218fc0d0a422",
+      "type": "text",
+      "text": "# vipassati\nThấy rõ",
+      "styleAttributes": {},
+      "x": 5000,
+      "y": 480,
+      "width": 260,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "7049f3c4e8d3f4a0",
+      "type": "text",
+      "text": "# ayaṃ\nCái này, người này",
+      "styleAttributes": {},
+      "x": 4050,
+      "y": 630,
+      "width": 220,
+      "height": 100
+    },
+    {
+      "id": "43b11a5fb7b1bf91",
+      "type": "text",
+      "text": "# Ettha\nTrạng\n**Ở đây**",
+      "styleAttributes": {},
+      "x": 5110,
+      "y": 620,
+      "width": 150,
+      "height": 120
+    },
+    {
+      "id": "19404070b38159de",
+      "type": "text",
+      "text": "# tanuko\nTính\n**Ít**",
+      "styleAttributes": {},
+      "x": 4570,
+      "y": 570,
+      "width": 170,
+      "height": 120
+    },
+    {
+      "id": "79cbb168022b7fb7",
+      "type": "text",
+      "text": "# (Satto)",
+      "styleAttributes": {},
+      "x": 4525,
+      "y": 480,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1da24e420dab9959",
+      "type": "file",
+      "file": "5. Storage/Pháp cú 174 - Phẩm thế gian.png",
+      "styleAttributes": {},
+      "x": 3958,
+      "y": 981,
+      "width": 1395,
+      "height": 228
+    },
+    {
+      "id": "852afc9cda84e817",
+      "type": "text",
+      "text": "# jālamutto",
+      "styleAttributes": {},
+      "x": 4340,
+      "y": 2180,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "123ebfac7c9d0f41",
+      "type": "text",
+      "text": "# (Satto)",
+      "styleAttributes": {},
+      "x": 4180,
+      "y": 2420,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "094ce28d23d0b9c8",
+      "type": "text",
+      "text": "# tanuko\nTính\n**Ít**",
+      "styleAttributes": {},
+      "x": 4225,
+      "y": 2510,
+      "width": 170,
+      "height": 120
+    },
+    {
+      "id": "38a62dec35a6d9f9",
+      "type": "text",
+      "text": "# iva",
+      "styleAttributes": {},
+      "x": 4180,
+      "y": 1950,
+      "width": 130,
+      "height": 60
+    },
+    {
+      "id": "7c79a602e9efc6e7",
+      "type": "text",
+      "text": "# Sakunto\nChim",
+      "styleAttributes": {},
+      "x": 4180,
+      "y": 2030,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "0ead1bd9c6ac89f3",
+      "type": "text",
+      "text": "# appo\nappa - tính.\n**it**",
+      "styleAttributes": {},
+      "x": 4810,
+      "y": 2030,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "50d0857afe3efec9",
+      "type": "text",
+      "text": "# Saggāya\nGBC, Danh, Nam\n**Cõi trời** / Bầu trời",
+      "styleAttributes": {},
+      "x": 5020,
+      "y": 2420,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "b194cffd6583cfac",
+      "type": "text",
+      "text": "# gacchati\nĐộng\n**ĐI tới**",
+      "styleAttributes": {},
+      "x": 4680,
+      "y": 2420,
+      "width": 260,
+      "height": 120,
+      "color": "2"
+    },
+    {
+      "id": "f8c8979f13ee74c9",
+      "type": "text",
+      "text": "# jālamutto",
+      "styleAttributes": {},
+      "x": 4340,
+      "y": 3345,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "3defdc4816301ce0",
+      "type": "text",
+      "text": "# (Satto)",
+      "styleAttributes": {},
+      "x": 4180,
+      "y": 3585,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "795f8b6daa5b2739",
+      "type": "text",
+      "text": "# iva",
+      "styleAttributes": {},
+      "x": 4180,
+      "y": 3115,
+      "width": 130,
+      "height": 60
+    },
+    {
+      "id": "b305ddb517b253c5",
+      "type": "text",
+      "text": "# Sakunto\nChim",
+      "styleAttributes": {},
+      "x": 4180,
+      "y": 3195,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "a0139538405ab194",
+      "type": "text",
+      "text": "# Saggāya\nGBC, Danh, Nam\n**Cõi trời** / Bầu trời",
+      "styleAttributes": {},
+      "x": 5020,
+      "y": 3585,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "f0ad4a49f9230eff",
+      "type": "text",
+      "text": "# gacchati\nĐộng\n**ĐI tới**",
+      "styleAttributes": {},
+      "x": 4680,
+      "y": 3585,
+      "width": 260,
+      "height": 120,
+      "color": "2"
+    },
+    {
+      "id": "c5967a562a0f1de3",
+      "type": "text",
+      "text": "# appo\nappa - tính.\n**it**",
+      "styleAttributes": {},
+      "x": 4250,
+      "y": 3680,
+      "width": 190,
+      "height": 135
+    },
+    {
+      "id": "52e84d6dfe6479a6",
+      "type": "text",
+      "text": "# Andhabhūto ayaṃ loko – tanuk’ettha vipassati\n# Sakunto jālamutto’va – appo saggāya gacchati",
+      "styleAttributes": {},
+      "x": 1580,
+      "y": 280,
+      "width": 760,
+      "height": 140
+    },
+    {
+      "id": "b480bde77e44aea2",
+      "type": "text",
+      "text": "# loko\nDanh, Nam\n**Thế gian**",
+      "styleAttributes": {},
+      "x": 1620,
+      "y": 490,
+      "width": 160,
+      "height": 120,
+      "color": "#625483"
+    },
+    {
+      "id": "141cf0c9f547a26f",
+      "type": "text",
+      "text": "# ayaṃ\nCái này, người này",
+      "styleAttributes": {},
+      "x": 1690,
+      "y": 640,
+      "width": 220,
+      "height": 100
+    },
+    {
+      "id": "670d17b85ab8f4f7",
+      "type": "text",
+      "text": "# Andhabhūto\nTính\n**Vô minh, mù quáng**",
+      "styleAttributes": {},
+      "x": 1880,
+      "y": 490,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "a041852e9ef032ad",
+      "type": "text",
+      "text": "# (Satto)",
+      "styleAttributes": {},
+      "x": 2165,
+      "y": 490,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2f05669995dbee15",
+      "type": "text",
+      "text": "# iva",
+      "styleAttributes": {},
+      "x": 1620,
+      "y": 820,
+      "width": 130,
+      "height": 60
+    },
+    {
+      "id": "dccdd2ff3dabd64e",
+      "type": "text",
+      "text": "# gacchati\nĐộng\n**ĐI tới**",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 900,
+      "width": 260,
+      "height": 120,
+      "color": "2"
+    },
+    {
+      "id": "a2015df64e702bf2",
+      "type": "text",
+      "text": "# jālamutto",
+      "styleAttributes": {},
+      "x": 1780,
+      "y": 1050,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "5aa40377fb5c8b67",
+      "type": "text",
+      "text": "# appo\nappa - tính.\n**it**",
+      "styleAttributes": {},
+      "x": 1670,
+      "y": 1190,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "f26e466c25b3fcd0",
+      "type": "text",
+      "text": "# Sakunto\nChim",
+      "styleAttributes": {},
+      "x": 1620,
+      "y": 900,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "41afc15b5425f7c4",
+      "type": "text",
+      "text": "# tanuko\nTính\n**Ít**",
+      "styleAttributes": {},
+      "x": 2210,
+      "y": 580,
+      "width": 170,
+      "height": 120
+    },
+    {
+      "id": "052ff75b63179f71",
+      "type": "text",
+      "text": "# vipassati\nThấy rõ",
+      "styleAttributes": {},
+      "x": 2640,
+      "y": 490,
+      "width": 260,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "563428b35d22d940",
+      "type": "text",
+      "text": "# Ettha\nTrạng\n**Ở đây**",
+      "styleAttributes": {},
+      "x": 2750,
+      "y": 630,
+      "width": 150,
+      "height": 120
+    },
+    {
+      "id": "ad042b660efcd078",
+      "type": "text",
+      "text": "# Saggāya\nGBC, Danh, Nam\n**Cõi trời** / Bầu trời",
+      "styleAttributes": {},
+      "x": 2420,
+      "y": 900,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "0a0c5645612153cb",
+      "type": "text",
+      "text": "# Andhabhūto ayaṃ loko – tanuk’ettha vipassati\n# Sakunto jālamutto’va – appo saggāya gacchati",
+      "styleAttributes": {},
+      "x": 1600,
+      "y": 1629,
+      "width": 760,
+      "height": 140
+    },
+    {
+      "id": "399a484f90f6a3cd",
+      "type": "text",
+      "text": "# ETtha\nTrạng\n**Ở đây**",
+      "styleAttributes": {},
+      "x": 3110,
+      "y": 1979,
+      "width": 150,
+      "height": 120
+    },
+    {
+      "id": "ea5e51371325d086",
+      "type": "text",
+      "text": "# (Satto)",
+      "styleAttributes": {},
+      "x": 2525,
+      "y": 1839,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f5c74c017c6e7e38",
+      "type": "text",
+      "text": "# tanuko\nTính\n**Ít**",
+      "styleAttributes": {},
+      "x": 2570,
+      "y": 1929,
+      "width": 170,
+      "height": 120
+    },
+    {
+      "id": "6177f4c6ae4ce746",
+      "type": "text",
+      "text": "# vipassati\nThấy rõ",
+      "styleAttributes": {},
+      "x": 3000,
+      "y": 1839,
+      "width": 260,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "107906689780daa9",
+      "type": "text",
+      "text": "# loko\nDanh, Nam\n**Thế gian**",
+      "styleAttributes": {},
+      "x": 1640,
+      "y": 1849,
+      "width": 160,
+      "height": 120,
+      "color": "#625483"
+    },
+    {
+      "id": "95cf086540c38bdc",
+      "type": "text",
+      "text": "# Andhabhūto\nTính\n**Vô minh, mù quáng**",
+      "styleAttributes": {},
+      "x": 1900,
+      "y": 1849,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "4d77085e932f01d2",
+      "type": "text",
+      "text": "# ayaṃ\nCái này, người này",
+      "styleAttributes": {},
+      "x": 1710,
+      "y": 1999,
+      "width": 220,
+      "height": 100
+    },
+    {
+      "id": "c8777922d14e2c06",
+      "type": "text",
+      "text": "## Trạng từ chỉ nơi chốn, vị trí",
+      "styleAttributes": {},
+      "x": 2870,
+      "y": 2160,
+      "width": 390,
+      "height": 60
+    },
+    {
+      "id": "015ef1e65a67f446",
+      "type": "text",
+      "text": "# iva",
+      "styleAttributes": {},
+      "x": 1620,
+      "y": 2420,
+      "width": 130,
+      "height": 60
+    },
+    {
+      "id": "c096821931907bb0",
+      "type": "text",
+      "text": "# Sakunto\nChim",
+      "styleAttributes": {},
+      "x": 1620,
+      "y": 2500,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "66ddc4c4f15ae8ca",
+      "type": "text",
+      "text": "# gacchati\nĐộng\n**ĐI tới**",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 2500,
+      "width": 260,
+      "height": 120,
+      "color": "2"
+    },
+    {
+      "id": "8cb843ca1d259afa",
+      "type": "text",
+      "text": "# Saggāya\nGBC, Danh, Nam\n**Cõi trời** / Bầu trời",
+      "styleAttributes": {},
+      "x": 2420,
+      "y": 2500,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "558bde88cf42f610",
+      "type": "text",
+      "text": "# jālamutto",
+      "styleAttributes": {},
+      "x": 1780,
+      "y": 2650,
+      "width": 260,
+      "height": 90
+    },
+    {
+      "id": "2666545fda66e1c2",
+      "type": "text",
+      "text": "# appo\nappa - tính.\n**it**",
+      "styleAttributes": {},
+      "x": 1670,
+      "y": 2790,
+      "width": 260,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "37276bae19feebee",
+      "styleAttributes": {},
+      "fromNode": "8ae957cf04cd65d0",
+      "fromSide": "right",
+      "toNode": "6d9b1268f50c9951",
+      "toSide": "left"
+    },
+    {
+      "id": "2f17dea8ed01efa8",
+      "styleAttributes": {},
+      "fromNode": "b480bde77e44aea2",
+      "fromSide": "bottom",
+      "toNode": "141cf0c9f547a26f",
+      "toSide": "left"
+    },
+    {
+      "id": "3044850feb68c0af",
+      "styleAttributes": {},
+      "fromNode": "b480bde77e44aea2",
+      "fromSide": "right",
+      "toNode": "670d17b85ab8f4f7",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "c3d1158929d586d5",
+      "styleAttributes": {},
+      "fromNode": "a041852e9ef032ad",
+      "fromSide": "bottom",
+      "toNode": "41afc15b5425f7c4",
+      "toSide": "left"
+    },
+    {
+      "id": "cc8fb1447cc24b35",
+      "styleAttributes": {},
+      "fromNode": "a041852e9ef032ad",
+      "fromSide": "right",
+      "toNode": "052ff75b63179f71",
+      "toSide": "left"
+    },
+    {
+      "id": "0ec5e6939d832a02",
+      "styleAttributes": {},
+      "fromNode": "f26e466c25b3fcd0",
+      "fromSide": "bottom",
+      "toNode": "5aa40377fb5c8b67",
+      "toSide": "left"
+    },
+    {
+      "id": "4071fdf419b6a93d",
+      "styleAttributes": {},
+      "fromNode": "f26e466c25b3fcd0",
+      "fromSide": "bottom",
+      "toNode": "a2015df64e702bf2",
+      "toSide": "left"
+    },
+    {
+      "id": "bc43fa6a6fe8ffdc",
+      "styleAttributes": {},
+      "fromNode": "f26e466c25b3fcd0",
+      "fromSide": "right",
+      "toNode": "dccdd2ff3dabd64e",
+      "toSide": "left"
+    },
+    {
+      "id": "905ffc9cf3352f66",
+      "styleAttributes": {},
+      "fromNode": "052ff75b63179f71",
+      "fromSide": "bottom",
+      "toNode": "563428b35d22d940",
+      "toSide": "left"
+    },
+    {
+      "id": "2452c100d3cb0125",
+      "styleAttributes": {},
+      "fromNode": "dccdd2ff3dabd64e",
+      "fromSide": "right",
+      "toNode": "ad042b660efcd078",
+      "toSide": "left"
+    },
+    {
+      "id": "8211131fcb38c589",
+      "styleAttributes": {},
+      "fromNode": "6c779a8b3845f1a1",
+      "fromSide": "right",
+      "toNode": "c894d931fb54cd06",
+      "toSide": "left"
+    },
+    {
+      "id": "325db400ed46e141",
+      "styleAttributes": {},
+      "fromNode": "be7163ed9864352e",
+      "fromSide": "bottom",
+      "toNode": "7049f3c4e8d3f4a0",
+      "toSide": "left"
+    },
+    {
+      "id": "9c9d46dcd8bc7254",
+      "styleAttributes": {},
+      "fromNode": "be7163ed9864352e",
+      "fromSide": "right",
+      "toNode": "b3eafc15dafa0ac1",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "e12ffbcca6ee9b1e",
+      "styleAttributes": {},
+      "fromNode": "b194cffd6583cfac",
+      "fromSide": "right",
+      "toNode": "50d0857afe3efec9",
+      "toSide": "left"
+    },
+    {
+      "id": "f3af7ecc85185b86",
+      "styleAttributes": {},
+      "fromNode": "79cbb168022b7fb7",
+      "fromSide": "bottom",
+      "toNode": "19404070b38159de",
+      "toSide": "left"
+    },
+    {
+      "id": "f8298dbbb52b9009",
+      "styleAttributes": {},
+      "fromNode": "79cbb168022b7fb7",
+      "fromSide": "right",
+      "toNode": "19e0218fc0d0a422",
+      "toSide": "left"
+    },
+    {
+      "id": "1ffc6f0f09beacbf",
+      "styleAttributes": {},
+      "fromNode": "7c79a602e9efc6e7",
+      "fromSide": "bottom",
+      "toNode": "852afc9cda84e817",
+      "toSide": "left"
+    },
+    {
+      "id": "93391066d67836c9",
+      "styleAttributes": {},
+      "fromNode": "19e0218fc0d0a422",
+      "fromSide": "bottom",
+      "toNode": "43b11a5fb7b1bf91",
+      "toSide": "left"
+    },
+    {
+      "id": "f2ca2f9561f33b1d",
+      "styleAttributes": {},
+      "fromNode": "c894d931fb54cd06",
+      "fromSide": "right",
+      "toNode": "27c007669704830d",
+      "toSide": "left"
+    },
+    {
+      "id": "0054f9559ab022f6",
+      "styleAttributes": {},
+      "fromNode": "7c79a602e9efc6e7",
+      "fromSide": "right",
+      "toNode": "0ead1bd9c6ac89f3",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "32850ee9d7616708",
+      "styleAttributes": {},
+      "fromNode": "123ebfac7c9d0f41",
+      "fromSide": "bottom",
+      "toNode": "094ce28d23d0b9c8",
+      "toSide": "left"
+    },
+    {
+      "id": "91da962631cac693",
+      "styleAttributes": {},
+      "fromNode": "27c007669704830d",
+      "fromSide": "bottom",
+      "toNode": "91440bec4c4724aa",
+      "toSide": "top"
+    },
+    {
+      "id": "27a67765ba258344",
+      "styleAttributes": {},
+      "fromNode": "3f12c2cb9329d357",
+      "fromSide": "right",
+      "toNode": "b194cffd6583cfac",
+      "toSide": "left"
+    },
+    {
+      "id": "4fb09a52fe0db853",
+      "styleAttributes": {},
+      "fromNode": "a0a7b0f69285c278",
+      "fromSide": "right",
+      "toNode": "f0ad4a49f9230eff",
+      "toSide": "left"
+    },
+    {
+      "id": "d9a9653ec6de0dd0",
+      "styleAttributes": {},
+      "fromNode": "b305ddb517b253c5",
+      "fromSide": "bottom",
+      "toNode": "f8c8979f13ee74c9",
+      "toSide": "left"
+    },
+    {
+      "id": "1b3c90ffb76ed048",
+      "styleAttributes": {},
+      "fromNode": "f0ad4a49f9230eff",
+      "fromSide": "right",
+      "toNode": "a0139538405ab194",
+      "toSide": "left"
+    },
+    {
+      "id": "031ad20001d567a6",
+      "styleAttributes": {},
+      "fromNode": "91440bec4c4724aa",
+      "fromSide": "bottom",
+      "toNode": "555c03eef5e3aa64",
+      "toSide": "top"
+    },
+    {
+      "id": "f8be7e8eeec4c790",
+      "styleAttributes": {},
+      "fromNode": "3defdc4816301ce0",
+      "fromSide": "bottom",
+      "toNode": "c5967a562a0f1de3",
+      "toSide": "left"
+    },
+    {
+      "id": "f573f0f718c0d9ce",
+      "styleAttributes": {},
+      "fromNode": "107906689780daa9",
+      "fromSide": "bottom",
+      "toNode": "4d77085e932f01d2",
+      "toSide": "left"
+    },
+    {
+      "id": "fddb6320fe803dfd",
+      "styleAttributes": {},
+      "fromNode": "107906689780daa9",
+      "fromSide": "right",
+      "toNode": "95cf086540c38bdc",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "9f8b292cd1318e39",
+      "styleAttributes": {},
+      "fromNode": "ea5e51371325d086",
+      "fromSide": "bottom",
+      "toNode": "f5c74c017c6e7e38",
+      "toSide": "left"
+    },
+    {
+      "id": "c64db525a53b783a",
+      "styleAttributes": {},
+      "fromNode": "ea5e51371325d086",
+      "fromSide": "right",
+      "toNode": "6177f4c6ae4ce746",
+      "toSide": "left"
+    },
+    {
+      "id": "e94d7f222e44f6d1",
+      "styleAttributes": {},
+      "fromNode": "66ddc4c4f15ae8ca",
+      "fromSide": "right",
+      "toNode": "8cb843ca1d259afa",
+      "toSide": "left"
+    },
+    {
+      "id": "f08548866051a467",
+      "styleAttributes": {},
+      "fromNode": "c096821931907bb0",
+      "fromSide": "right",
+      "toNode": "66ddc4c4f15ae8ca",
+      "toSide": "left"
+    },
+    {
+      "id": "1dbc72d53d9a843d",
+      "styleAttributes": {},
+      "fromNode": "c096821931907bb0",
+      "fromSide": "bottom",
+      "toNode": "558bde88cf42f610",
+      "toSide": "left"
+    },
+    {
+      "id": "c56a0d9c07e11a89",
+      "styleAttributes": {},
+      "fromNode": "c096821931907bb0",
+      "fromSide": "bottom",
+      "toNode": "2666545fda66e1c2",
+      "toSide": "left"
+    },
+    {
+      "id": "844cee7e120295f4",
+      "styleAttributes": {},
+      "fromNode": "6177f4c6ae4ce746",
+      "fromSide": "bottom",
+      "toNode": "399a484f90f6a3cd",
+      "toSide": "left"
+    },
+    {
+      "id": "df6abe40482dd40f",
+      "styleAttributes": {},
+      "fromNode": "399a484f90f6a3cd",
+      "fromSide": "bottom",
+      "toNode": "107906689780daa9",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

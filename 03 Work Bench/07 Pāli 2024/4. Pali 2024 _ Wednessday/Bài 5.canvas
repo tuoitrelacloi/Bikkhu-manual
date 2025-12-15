@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "id": "b92ffb62c5aa9c82",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "x": -660,
+      "y": -340,
+      "width": 1200,
+      "height": 675,
+      "label": "Start Slide"
+    },
+    {
+      "id": "b29aa372532616f1",
+      "type": "text",
+      "text": "# **Pháp Cú**\n# appamādena maghavā, devānaṃ seṭṭhataṃ gato. \n# appamādaṃ pasaṃsanti, pamādo garahito sadā. \n \n# yathāpi ruciraṃ pupphaṃ, vaṇṇavantaṃ agandhakaṃ. \n# evaṃ subhāsitā vācā, aphalā hoti akubbato. ",
+      "styleAttributes": {},
+      "x": -540,
+      "y": -300,
+      "width": 760,
+      "height": 380
+    },
+    {
+      "id": "e48116097c400013",
+      "type": "text",
+      "text": "## deva -> devo -> devānaṃ",
+      "styleAttributes": {},
+      "x": 40,
+      "y": 580,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "cb4732c3f1087c05",
+      "type": "text",
+      "text": "## maghavā\n**Vua trời** / CC số ít",
+      "styleAttributes": {},
+      "x": -480,
+      "y": 108,
+      "width": 260,
+      "height": 115
+    },
+    {
+      "id": "70e821edd8d6ecb3",
+      "type": "text",
+      "text": "## appamādena\n**Sự dễ duôi**",
+      "styleAttributes": {},
+      "x": -140,
+      "y": 108,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "92513d217b9abb7a",
+      "type": "text",
+      "text": "## devānaṃ\n**vị trời**",
+      "styleAttributes": {},
+      "x": 180,
+      "y": 123,
+      "width": 260,
+      "height": 85
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

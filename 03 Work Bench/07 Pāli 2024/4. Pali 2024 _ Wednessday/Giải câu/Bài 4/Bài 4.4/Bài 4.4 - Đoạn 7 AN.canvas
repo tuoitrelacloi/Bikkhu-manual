@@ -1,0 +1,1369 @@
+{
+  "nodes": [
+    {
+      "id": "75c49dfb98ecf21b",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "x": -5109,
+      "y": 2496,
+      "width": 2674,
+      "height": 1504,
+      "label": "New Slide"
+    },
+    {
+      "id": "b309bf9b63af845f",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 3000,
+      "y": -895,
+      "width": 1240,
+      "height": 2935,
+      "label": "Untitled group"
+    },
+    {
+      "id": "f53a2f34477ec77d",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "x": -4855,
+      "y": 883,
+      "width": 2420,
+      "height": 1361,
+      "label": "New Slide"
+    },
+    {
+      "id": "e632af07f7fc3d0f",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4553,
+      "y": 2645,
+      "width": 1180,
+      "height": 1305,
+      "label": "5 Dùng Aggaṃ như tính từ"
+    },
+    {
+      "id": "def7b7a5e1645fb0",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "x": -1868,
+      "y": 655,
+      "width": 1615,
+      "height": 908,
+      "label": "New Slide"
+    },
+    {
+      "id": "d68b5dd14588f1ac",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4465,
+      "y": 1028,
+      "width": 1180,
+      "height": 1140,
+      "label": "5"
+    },
+    {
+      "id": "362385005bd23bea",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "x": -1849,
+      "y": -272,
+      "width": 1502,
+      "height": 845,
+      "label": "New Slide"
+    },
+    {
+      "id": "09d322dce938a22c",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "x": -3920,
+      "y": -280,
+      "width": 1502,
+      "height": 845,
+      "label": "New Slide"
+    },
+    {
+      "id": "ddbf6f82dac421b5",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "x": -1760,
+      "y": -1285,
+      "width": 1413,
+      "height": 795,
+      "label": "Start Slide"
+    },
+    {
+      "id": "86c1b64ad63fd961",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1807,
+      "y": -177,
+      "width": 1443,
+      "height": 620,
+      "color": "2",
+      "label": "# 1- Dvemāni, bhikkhave, sukhāni. (câu đl)"
+    },
+    {
+      "id": "cb9c5ea70b7691c4",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1775,
+      "y": 800,
+      "width": 1443,
+      "height": 620,
+      "color": "2",
+      "label": "# 2- Katamāni dve?  "
+    },
+    {
+      "id": "a646c63a8418a0d9",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -3878,
+      "y": -185,
+      "width": 1443,
+      "height": 620,
+      "color": "2",
+      "label": "# 1- Dvemāni, bhikkhave, sukhāni. (câu đl)"
+    },
+    {
+      "id": "d070ef305b05ddc3",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1160,
+      "y": 2440,
+      "width": 1443,
+      "height": 575,
+      "label": "Untitled group"
+    },
+    {
+      "id": "8d3eac35ca9e7196",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4425,
+      "y": 1108,
+      "width": 1000,
+      "height": 700,
+      "label": "Untitled group"
+    },
+    {
+      "id": "48f47a46045d5225",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4513,
+      "y": 2740,
+      "width": 780,
+      "height": 805,
+      "color": "1",
+      "label": "Điều này TRONG 2 sự an lạc đó THÌ cao nhất"
+    },
+    {
+      "id": "1f522c3436727620",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1440,
+      "y": 2687,
+      "width": 870,
+      "height": 656,
+      "color": "4",
+      "label": "đối với 2 sự lạc này"
+    },
+    {
+      "id": "64458f251a45b92e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1160,
+      "y": 4000,
+      "width": 990,
+      "height": 357,
+      "label": "CYNTT 1: Gihisukhaṃ ca (atthi)"
+    },
+    {
+      "id": "fb57765649fb963a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4403,
+      "y": 3070,
+      "width": 580,
+      "height": 455,
+      "color": "5",
+      "label": "Cụm Danh-từ SHC"
+    },
+    {
+      "id": "63271d1958b3ee9b",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -3925,
+      "y": 1313,
+      "width": 580,
+      "height": 455,
+      "color": "5",
+      "label": "Cụm Danh-từ SHC"
+    },
+    {
+      "id": "b0c106ec1579ddfd",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 3140,
+      "y": 620,
+      "width": 720,
+      "height": 360,
+      "label": "3"
+    },
+    {
+      "id": "6661a4b872c45dcf",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4513,
+      "y": 3645,
+      "width": 800,
+      "height": 260,
+      "label": "Cụm từ"
+    },
+    {
+      "id": "014fe4813d45de6b",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4425,
+      "y": 1868,
+      "width": 800,
+      "height": 260,
+      "label": "Cụm từ"
+    },
+    {
+      "id": "2e23fb4e34a22a72",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 3140,
+      "y": -240,
+      "width": 720,
+      "height": 260,
+      "label": "1"
+    },
+    {
+      "id": "9b8db7d5d89deeb7",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 3140,
+      "y": 220,
+      "width": 720,
+      "height": 260,
+      "label": "2"
+    },
+    {
+      "id": "21fa91c0a5ca6b41",
+      "type": "text",
+      "text": "# Etad = etaṃ\n- ĐTNXCĐ, dùng như TT, M, CC, ÍT\n- BNTT CHO CT\n- *NÀY*",
+      "styleAttributes": {},
+      "x": 677,
+      "y": 2660,
+      "width": 443,
+      "height": 156
+    },
+    {
+      "id": "7b518c3b38c63708",
+      "type": "text",
+      "text": "# sukhānaṃ\n- NT, GBC/ SHC, NHIỀU\n- CN: \n- *NHỮNG SỰ LẠC*",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": 2707,
+      "width": 371,
+      "height": 238
+    },
+    {
+      "id": "37e82a157301516a",
+      "type": "text",
+      "text": "# sukhāni\n- NT, CC, NHIỀU\n- VN TRONG CĐL\n- *sự lạc*",
+      "styleAttributes": {},
+      "x": -80,
+      "y": 2460,
+      "width": 343,
+      "height": 200
+    },
+    {
+      "id": "33dd15a548284d92",
+      "type": "text",
+      "text": "# Tức là, đối với 2 sự lạc này, sự lạc của người xuất gia đó là cao nhất",
+      "styleAttributes": {},
+      "x": 460,
+      "y": 2200,
+      "width": 980,
+      "height": 84,
+      "color": "1"
+    },
+    {
+      "id": "b08e271c99bd7482",
+      "type": "text",
+      "text": "# pabbajitasukhaṃ\n- NT, CC, ÍT\n- ĐỒNG VỊ NGỮ\n- *SỰ LẠC CỦA NGƯỜI XUẤT GIA*",
+      "styleAttributes": {},
+      "x": 475,
+      "y": 2339,
+      "width": 404,
+      "height": 188
+    },
+    {
+      "id": "a20638d7d23028c8",
+      "type": "text",
+      "text": "# (hoti)",
+      "styleAttributes": {},
+      "x": 1094,
+      "y": 2403,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "10c960e30be9b34e",
+      "type": "text",
+      "text": "# yadidaṃ # yathayidaṃ",
+      "styleAttributes": {},
+      "x": 460,
+      "y": 3033,
+      "width": 453,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "1aaea31a1ecc03bf",
+      "type": "text",
+      "text": "# imesaṃ\n- ĐTNXCĐ, dùng như ...\n- M/ NT, GBC/ SHC, NHIỀU\n- ",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 2945,
+      "width": 340,
+      "height": 176
+    },
+    {
+      "id": "17cd12578087700f",
+      "type": "text",
+      "text": "# dvinnaṃ\n- TT, GBC/ SHC, NHIỀU\n- BNTT CHO sukhānaṃ",
+      "styleAttributes": {},
+      "x": 1950,
+      "y": 3185,
+      "width": 290,
+      "height": 138
+    },
+    {
+      "id": "df32b443bc90b164",
+      "type": "text",
+      "text": "# aggaṃ\n- TT, M, CC, ÍT\n- VN TRONG CĐL , BN CHO CT QUA LĐT\n- *CAO NHẤT*",
+      "styleAttributes": {},
+      "x": 1646,
+      "y": 2325,
+      "width": 391,
+      "height": 216
+    },
+    {
+      "id": "25027becbad261ff",
+      "type": "text",
+      "text": "# 4- Imāni kho, bhikkhave, dve sukhāni (cđl)",
+      "styleAttributes": {},
+      "x": -1160,
+      "y": 2360,
+      "width": 682,
+      "height": 68
+    },
+    {
+      "id": "d035fd6fb27ed330",
+      "type": "text",
+      "text": "# imāni\n- ĐTNXCĐ, dùng như DT, NT, CC, NHIỀU\n- CT TRONG CĐL\n- *ĐIỀU ĐÓ*",
+      "styleAttributes": {},
+      "x": -1140,
+      "y": 2481,
+      "width": 375,
+      "height": 206
+    },
+    {
+      "id": "5b135a4d3611d694",
+      "type": "text",
+      "text": "# dve\n- TT, NT, CC, NHIỀU\n- BNTT CHO **IMĀNI**\n- *HAI*",
+      "styleAttributes": {},
+      "x": -910,
+      "y": 2785,
+      "width": 300,
+      "height": 180
+    },
+    {
+      "id": "474f5410f1821565",
+      "type": "text",
+      "text": "# (honti)",
+      "styleAttributes": {},
+      "x": -503,
+      "y": 2530,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6ee61cd95be862f1",
+      "type": "text",
+      "text": "# Này các tỳ-kheo, quả thực hai điều đó là sự lạc",
+      "styleAttributes": {},
+      "x": -439,
+      "y": 2855,
+      "width": 702,
+      "height": 110
+    },
+    {
+      "id": "43f1cebc3673e859",
+      "type": "text",
+      "text": "# 3- Có sự lạc của người cư sĩ nam và  Có sự lạc của người xuất gia",
+      "styleAttributes": {},
+      "x": 61,
+      "y": -750,
+      "width": 630,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "44064296c335b420",
+      "type": "text",
+      "text": "# 4- Này các tỳ-kheo, quả thực hai điều đó  là những sự lạc",
+      "styleAttributes": {},
+      "x": 61,
+      "y": -540,
+      "width": 795,
+      "height": 100
+    },
+    {
+      "id": "2dd42b64f55ddfd3",
+      "type": "text",
+      "text": "# 5- Tức là, đối với 2 sự lạc này, sự lạc của người xuất gia đó là cao nhất",
+      "styleAttributes": {},
+      "x": 61,
+      "y": -360,
+      "width": 831,
+      "height": 102
+    },
+    {
+      "id": "d18eab9a8b73801b",
+      "type": "text",
+      "text": "# 1- Này các tỳ-kheo, hai điều này là sự lạc",
+      "styleAttributes": {},
+      "x": 61,
+      "y": -1000,
+      "width": 607,
+      "height": 105
+    },
+    {
+      "id": "bd719587aa110466",
+      "type": "text",
+      "text": "# 2- Hai Điều gì là những sự lạc?",
+      "styleAttributes": {},
+      "x": 61,
+      "y": -850,
+      "width": 607,
+      "height": 50
+    },
+    {
+      "id": "90fdb6c3a02f0596",
+      "type": "text",
+      "text": "# Có sự lạc của người xuất gia",
+      "styleAttributes": {},
+      "x": -1160,
+      "y": 2207,
+      "width": 538,
+      "height": 77
+    },
+    {
+      "id": "1e28628cb9e02747",
+      "type": "text",
+      "text": "## Dve Katamāni",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": 240,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3521a9c6cba49769",
+      "type": "text",
+      "text": "# Gihisukhaṃ ca pabbajitasukhaṃ ca.\n## Sự an lạc của người tại gia và sự an lạc của người XUất gia\n",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": 640,
+      "width": 680,
+      "height": 140
+    },
+    {
+      "id": "5bec0183f8f37f95",
+      "type": "text",
+      "text": "# Imāni kho, bhikkhave, dve sukhāni.\n## Hai cái đó là những sự an-lạc",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": 800,
+      "width": 680,
+      "height": 144
+    },
+    {
+      "id": "17b42babe5c37797",
+      "type": "text",
+      "text": "# Hai cái GÌ là những sự An-lạc?",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": 400,
+      "width": 680,
+      "height": 60
+    },
+    {
+      "id": "2090c574f58ef15f",
+      "type": "text",
+      "text": "# 5- Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ pabbajitasukhaṃ ti.",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": 1105,
+      "width": 960,
+      "height": 160
+    },
+    {
+      "id": "16675cf57a7d91a1",
+      "type": "text",
+      "text": "## sukhāni",
+      "styleAttributes": {},
+      "x": 3580,
+      "y": 240,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8865933603143485",
+      "type": "text",
+      "text": "# ĐOẠN 1\n# 1- Dvemāni, bhikkhave, sukhāni. \n\n# 2- Katamāni dve? \n\n# 3- Gihisukhaṃ ca pabbajitasukhaṃ ca. \n\n# 4- Imāni kho, bhikkhave, dve sukhāni. \n\n# 5- Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ pabbajitasukhaṃ ti.\n",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": -800,
+      "width": 1060,
+      "height": 440
+    },
+    {
+      "id": "70ed13c226e7d864",
+      "type": "text",
+      "text": "# Hai cái này là những sự An-lạc",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": -60,
+      "width": 680,
+      "height": 60
+    },
+    {
+      "id": "5d2897ae69787653",
+      "type": "text",
+      "text": "## Dve imāni",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": -220,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e72ba85fb2cb6f4a",
+      "type": "text",
+      "text": "## sukhāni",
+      "styleAttributes": {},
+      "x": 3580,
+      "y": -220,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a6363ad2ae531386",
+      "type": "text",
+      "text": "# ĐOẠN 1\n# 1- Dvemāni, bhikkhave, sukhāni. \nNày các tì-khưu, CÓ 2 sự lạc.\n\n# 2- Katamāni dve? \nHai sự lạc NÀO?\n# 3- Gihisukhaṃ ca pabbajitasukhaṃ ca. \n(Hai sự lạc đó là) Sự lạc của người TẠI GIA và Sự lạc của người XUẤT GIA\n# 4- Imāni kho, bhikkhave, dve sukhāni. \nNày các tì-khưu, đó là hai sự lạc.\n# 5- Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ pabbajitasukhaṃ ti.\nNày các tì-khưu, Cái vượt trội trong hai sự lạc đó\nTức là sự lạc của người xuất gia\n",
+      "styleAttributes": {},
+      "x": -1613,
+      "y": -1240,
+      "width": 1060,
+      "height": 700
+    },
+    {
+      "id": "13a71d5f3bb35ad5",
+      "type": "text",
+      "text": "# honti",
+      "styleAttributes": {},
+      "x": -1150,
+      "y": -87,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6d5acb97273affed",
+      "type": "text",
+      "text": "# dve\n- TT, NT, CC, NHIỀU\n- *HAI*",
+      "styleAttributes": {},
+      "x": -1450,
+      "y": 88,
+      "width": 300,
+      "height": 180
+    },
+    {
+      "id": "f50ecf80977fee7a",
+      "type": "text",
+      "text": "# Dvemāni = dve + imāni",
+      "styleAttributes": {},
+      "x": -982,
+      "y": 88,
+      "width": 427,
+      "height": 95,
+      "color": "3"
+    },
+    {
+      "id": "ccad6eccf59aeffb",
+      "type": "text",
+      "text": "# Này các tỳ-kheo, hai điều này là những sự lạc",
+      "styleAttributes": {},
+      "x": -1787,
+      "y": 303,
+      "width": 607,
+      "height": 120
+    },
+    {
+      "id": "d6d15cff37facc99",
+      "type": "text",
+      "text": "# imāni\n- ĐTNXCĐ, dùng như DT, NT, CC, NHIỀU\n- *ĐIỀU NÀY*",
+      "styleAttributes": {},
+      "x": -1787,
+      "y": -157,
+      "width": 375,
+      "height": 200
+    },
+    {
+      "id": "e386f5e1b822d92d",
+      "type": "text",
+      "text": "# sukhāni\n- NT, CC, NHIỀU\n- *sự lạc*",
+      "styleAttributes": {},
+      "x": -727,
+      "y": -157,
+      "width": 343,
+      "height": 200
+    },
+    {
+      "id": "16c6535ad44e0aa1",
+      "type": "text",
+      "text": "# Này các tỳ-kheo, CÓ hai sự lạc NÀY",
+      "styleAttributes": {},
+      "x": -3858,
+      "y": 295,
+      "width": 607,
+      "height": 120
+    },
+    {
+      "id": "81edcfd970688403",
+      "type": "text",
+      "text": "# sukhāni\n- NT, CC, NHIỀU\n- *sự lạc*",
+      "styleAttributes": {},
+      "x": -3800,
+      "y": -157,
+      "width": 343,
+      "height": 137
+    },
+    {
+      "id": "dc2d1be620046848",
+      "type": "text",
+      "text": "# honti",
+      "styleAttributes": {},
+      "x": -3221,
+      "y": -118,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "d7d8637200fc4915",
+      "type": "text",
+      "text": "# imāni\n- ĐTNXCĐ, dùng như DT, NT, CC, NHIỀU\n- *ĐIỀU NÀY*",
+      "styleAttributes": {},
+      "x": -3554,
+      "y": 60,
+      "width": 375,
+      "height": 172
+    },
+    {
+      "id": "11b6de5429eaacb5",
+      "type": "text",
+      "text": "# dve\n- TT, NT, CC, NHIỀU\n- *HAI*",
+      "styleAttributes": {},
+      "x": -3121,
+      "y": 60,
+      "width": 300,
+      "height": 180
+    },
+    {
+      "id": "712d369100959d82",
+      "type": "text",
+      "text": "# 5- Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ pabbajitasukhaṃ ti. (CĐL)",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 4519,
+      "width": 1320,
+      "height": 148
+    },
+    {
+      "id": "a57a98bf5cccd260",
+      "type": "text",
+      "text": "# Etadaggaṃ (hợp âm) = Etad (ĐTNXCĐ) + aggaṃ (tt - Cao nhất) \n",
+      "styleAttributes": {},
+      "x": 475,
+      "y": 4713,
+      "width": 1005,
+      "height": 104,
+      "color": "3"
+    },
+    {
+      "id": "e05301ff64426f72",
+      "type": "text",
+      "text": "# Có sự lạc của người cư sĩ nam",
+      "styleAttributes": {},
+      "x": -1140,
+      "y": 4260,
+      "width": 538,
+      "height": 77
+    },
+    {
+      "id": "b3a9b691a924fca3",
+      "type": "text",
+      "text": "# Gihisukhaṃ (từ ghép)\n- NT, CC, ÍT\n- CT\n- *SỰ LẠC CỦA NGƯỜI CƯ SĨ NAM*",
+      "styleAttributes": {},
+      "x": -1140,
+      "y": 4020,
+      "width": 378,
+      "height": 240
+    },
+    {
+      "id": "bc38c94048b4770a",
+      "type": "text",
+      "text": "# (atthi)\n- ĐT, HT, CĐ, MTC, 3, ÍT\n- CHỈ Ý NIỆM TỒN TẠI\n- *CÓ*",
+      "styleAttributes": {},
+      "x": -476,
+      "y": 4039,
+      "width": 286,
+      "height": 171
+    },
+    {
+      "id": "523745f208611ced",
+      "type": "text",
+      "text": "# pabbajitasukhaṃ (từ ghép)\n- NT, CC, ÍT\n- CT\n- *SỰ LẠC CỦA NGƯỜI XUẤT GIA*",
+      "styleAttributes": {},
+      "x": -1140,
+      "y": 4500,
+      "width": 400,
+      "height": 213
+    },
+    {
+      "id": "48cdb36837ac8771",
+      "type": "text",
+      "text": "# (atthi)\n- ĐT, HT, CĐ, MTC, 3, ÍT\n- CHỈ Ý NIỆM TỒN TẠI\n- *CÓ*",
+      "styleAttributes": {},
+      "x": -476,
+      "y": 4519,
+      "width": 286,
+      "height": 171
+    },
+    {
+      "id": "6873c10a5c81f098",
+      "type": "text",
+      "text": "# 3- Gihisukhaṃ ca pabbajitasukhaṃ ca. (câu ghép gồm 2 Câu tồn tại)",
+      "styleAttributes": {},
+      "x": -1131,
+      "y": 3481,
+      "width": 774,
+      "height": 125,
+      "color": "1"
+    },
+    {
+      "id": "95fd9f284621228a",
+      "type": "text",
+      "text": "# pabbajitasukhaṃ = pabbajita (m) + sukhaṃ (nt)\n- *SỰ LẠC CỦA NGƯỜI XUẤT GIA*\n- TỪ GHÉP PHI CỘNG GỘP",
+      "styleAttributes": {},
+      "x": -160,
+      "y": 3656,
+      "width": 640,
+      "height": 169
+    },
+    {
+      "id": "93df17013527006d",
+      "type": "text",
+      "text": "# Gihisukhaṃ = gihī (m) + sukhaṃ (nt) \n- TỪ GHÉP PHI CỘNG GỘP\n- *SỰ LẠC CỦA  CƯ SĨ NAM*",
+      "styleAttributes": {},
+      "x": 583,
+      "y": 3667,
+      "width": 584,
+      "height": 193
+    },
+    {
+      "id": "cec6528233f8cf2f",
+      "type": "text",
+      "text": "# Có sự lạc của người cư sĩ nam và  Có sự lạc của người xuất gia",
+      "styleAttributes": {},
+      "x": -1133,
+      "y": 3694,
+      "width": 630,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "67078fed37db5742",
+      "type": "text",
+      "text": "# 5- Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ pabbajitasukhaṃ ti.",
+      "styleAttributes": {},
+      "x": 583,
+      "y": 3980,
+      "width": 792,
+      "height": 109
+    },
+    {
+      "id": "8425036494cd1cba",
+      "type": "text",
+      "text": "# katamāni\n- ĐTVN, dùng như DT, NT, CC, NHIỀU\n- CT TRONG CĐL\n- *ĐIỀU GÌ*",
+      "styleAttributes": {},
+      "x": -1755,
+      "y": 820,
+      "width": 375,
+      "height": 200
+    },
+    {
+      "id": "e27e2c9f27786dba",
+      "type": "text",
+      "text": "# Hai Điều gì là những sự lạc?",
+      "styleAttributes": {},
+      "x": -1721,
+      "y": 1280,
+      "width": 453,
+      "height": 100
+    },
+    {
+      "id": "ec5b5056375a4158",
+      "type": "text",
+      "text": "# dve\n- TT, NT, CC, NHIỀU\n- BNTT CHO **IMĀNI**\n- *HAI*",
+      "styleAttributes": {},
+      "x": -1418,
+      "y": 1065,
+      "width": 300,
+      "height": 180
+    },
+    {
+      "id": "e4e0b76f49dbbaff",
+      "type": "text",
+      "text": "# (honti)",
+      "styleAttributes": {},
+      "x": -1118,
+      "y": 890,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "b62a7774ebc93ba6",
+      "type": "text",
+      "text": "# Dvemāni = dve + imāni",
+      "styleAttributes": {},
+      "x": -950,
+      "y": 1065,
+      "width": 427,
+      "height": 95,
+      "color": "3"
+    },
+    {
+      "id": "968e6131d23b0933",
+      "type": "text",
+      "text": "# (sukhāni)\n- NT, CC, NHIỀU\n- VN TRONG CĐL\n- *những sự lạc*",
+      "styleAttributes": {},
+      "x": -695,
+      "y": 820,
+      "width": 343,
+      "height": 200
+    },
+    {
+      "id": "bf6277edd2f46f05",
+      "type": "text",
+      "text": "Thiis highest of 2 sukhaṃ\n## Cái này là cái vượt trội hơn trong hai sự an lạc đó\n---\n# Coi Yadidaṃ có cách dùng giống như yathāyidaṃ\n##  Sau đó là danh từ Chủ cách - Chủ cách tên gọi\n---\n## Một tính từ có thể được sử dụng như một danh từ\n\n----\n## Nếu phải chọn agga là tính từ",
+      "styleAttributes": {},
+      "x": -4825,
+      "y": 1088,
+      "width": 320,
+      "height": 1080
+    },
+    {
+      "id": "8e665a791d2e9d4e",
+      "type": "text",
+      "text": "# aggaṃ\n### agga 1.4\n\nnt. (+gen) **chief (among); best (of); highest (of); ultimate** ✓",
+      "styleAttributes": {},
+      "x": -3985,
+      "y": 1128,
+      "width": 260,
+      "height": 240
+    },
+    {
+      "id": "e472b13892a2ce66",
+      "type": "text",
+      "text": "# Etad\nCái này - \n\n---\nCái này là cái cao nhất đối với 2 sự an lạc  đó",
+      "styleAttributes": {},
+      "x": -4405,
+      "y": 1143,
+      "width": 260,
+      "height": 210
+    },
+    {
+      "id": "23b60ed972cc927f",
+      "type": "text",
+      "text": "# Yadidaṃ\nTức là",
+      "styleAttributes": {},
+      "x": -4405,
+      "y": 1888,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "42a808d6c5733b4f",
+      "type": "text",
+      "text": "# pabbajitasukhaṃ",
+      "styleAttributes": {},
+      "x": -4065,
+      "y": 1898,
+      "width": 420,
+      "height": 100
+    },
+    {
+      "id": "dd37cb531cc7174f",
+      "type": "text",
+      "text": "## Tức là sự an lạc của người xuất gia",
+      "styleAttributes": {},
+      "x": -4305,
+      "y": 2028,
+      "width": 660,
+      "height": 80
+    },
+    {
+      "id": "709ff5a02a4616d7",
+      "type": "text",
+      "text": "# imesaṃ\nDAT or GEN - GiánBC SởHC",
+      "styleAttributes": {},
+      "x": -3905,
+      "y": 1428,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "bf01fa8e25f1eec8",
+      "type": "text",
+      "text": "# sukhānaṃ",
+      "styleAttributes": {},
+      "x": -3625,
+      "y": 1688,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9749323d976de56c",
+      "type": "text",
+      "text": "Thiis highest of 2 sukhaṃ\n## Cái này là cái vượt trội hơn trong hai sự an lạc đó\n---\n# 1. Coi Yadidaṃ có cách dùng giống như yathāyidaṃ\n##  Sau đó là danh từ Chủ cách - Chủ cách tên gọi\n---\n## 2. Một tính từ luôn có thể được sử dụng như một danh từ\n\n----\n## 3. Nếu phải chọn agga là tính từ",
+      "styleAttributes": {},
+      "x": -4993,
+      "y": 2595,
+      "width": 320,
+      "height": 1140
+    },
+    {
+      "id": "5e43c72d47e7d67a",
+      "type": "text",
+      "text": "# aggaṃ\n### agga 1.4\n\nnt. (+gen) **chief (among); best (of); highest (of); ultimate** ✓",
+      "styleAttributes": {},
+      "x": -3673,
+      "y": 2745,
+      "width": 260,
+      "height": 240
+    },
+    {
+      "id": "2ba2ea25cd69d283",
+      "type": "text",
+      "text": "# Etad\nCái này - \n\n---\nCái này là cái cao nhất đối với 2 sự an lạc  đó",
+      "styleAttributes": {},
+      "x": -4493,
+      "y": 2760,
+      "width": 260,
+      "height": 210
+    },
+    {
+      "id": "bf3d82668b43168e",
+      "type": "text",
+      "text": "# Yadidaṃ\nTức là",
+      "styleAttributes": {},
+      "x": -4493,
+      "y": 3665,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "d8eef94482bb7f7e",
+      "type": "text",
+      "text": "# pabbajitasukhaṃ",
+      "styleAttributes": {},
+      "x": -4153,
+      "y": 3675,
+      "width": 420,
+      "height": 100
+    },
+    {
+      "id": "d9a8c7382cbd0704",
+      "type": "text",
+      "text": "## Tức là sự an lạc của người xuất gia",
+      "styleAttributes": {},
+      "x": -4393,
+      "y": 3805,
+      "width": 660,
+      "height": 80
+    },
+    {
+      "id": "6cae63c51c1cd003",
+      "type": "text",
+      "text": "## SHC tổng thể",
+      "styleAttributes": {},
+      "x": -4103,
+      "y": 3125,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "1e8543c791fd8def",
+      "type": "text",
+      "text": "# imesaṃ\nDAT or GEN - GiánBC SởHC",
+      "styleAttributes": {},
+      "x": -4383,
+      "y": 3185,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "10a078509eefeae3",
+      "type": "text",
+      "text": "# dvinnaṃ\n2\nDAT - GEN",
+      "styleAttributes": {},
+      "x": -4103,
+      "y": 3245,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "fa8c297e6fe164b1",
+      "type": "text",
+      "text": "# sukhānaṃ",
+      "styleAttributes": {},
+      "x": -4103,
+      "y": 3445,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "59f4dcd762dcfb59",
+      "type": "text",
+      "text": "# dvinnaṃ\n2\nDAT - GEN",
+      "styleAttributes": {},
+      "x": -3560,
+      "y": 1868,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "f6b2bdb545838eac",
+      "type": "text",
+      "text": "## SHC tổng thể",
+      "styleAttributes": {},
+      "x": -3625,
+      "y": 1428,
+      "width": 260,
+      "height": 80
+    }
+  ],
+  "edges": [
+    {
+      "id": "54bce3abe1570c98",
+      "fromNode": "d6d15cff37facc99",
+      "fromSide": "bottom",
+      "toNode": "6d5acb97273affed",
+      "toSide": "left"
+    },
+    {
+      "id": "3ce6aee4b4485861",
+      "fromNode": "d6d15cff37facc99",
+      "fromSide": "right",
+      "toNode": "13a71d5f3bb35ad5",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "405b8b0a89c6da50",
+      "fromNode": "13a71d5f3bb35ad5",
+      "fromSide": "right",
+      "toNode": "e386f5e1b822d92d",
+      "toSide": "left"
+    },
+    {
+      "id": "ea2a86d0a7bcda9a",
+      "fromNode": "e4e0b76f49dbbaff",
+      "fromSide": "right",
+      "toNode": "968e6131d23b0933",
+      "toSide": "left"
+    },
+    {
+      "id": "687d00aa34ed0c0d",
+      "fromNode": "8425036494cd1cba",
+      "fromSide": "right",
+      "toNode": "e4e0b76f49dbbaff",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "2f1ed167d5a6ad17",
+      "fromNode": "8425036494cd1cba",
+      "fromSide": "bottom",
+      "toNode": "ec5b5056375a4158",
+      "toSide": "left"
+    },
+    {
+      "id": "fe8107f7ab9f3b05",
+      "fromNode": "b3a9b691a924fca3",
+      "fromSide": "right",
+      "toNode": "bc38c94048b4770a",
+      "toSide": "left"
+    },
+    {
+      "id": "207aa83246b55c84",
+      "fromNode": "523745f208611ced",
+      "fromSide": "right",
+      "toNode": "48cdb36837ac8771",
+      "toSide": "left"
+    },
+    {
+      "id": "8bbd1417b11f8073",
+      "fromNode": "474f5410f1821565",
+      "fromSide": "right",
+      "toNode": "37e82a157301516a",
+      "toSide": "left"
+    },
+    {
+      "id": "5df5315179bc6e50",
+      "fromNode": "d035fd6fb27ed330",
+      "fromSide": "right",
+      "toNode": "474f5410f1821565",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "e2feb45104537e75",
+      "fromNode": "d035fd6fb27ed330",
+      "fromSide": "bottom",
+      "toNode": "5b135a4d3611d694",
+      "toSide": "left"
+    },
+    {
+      "id": "08ca2ae44beed33c",
+      "fromNode": "a20638d7d23028c8",
+      "fromSide": "right",
+      "toNode": "df32b443bc90b164",
+      "toSide": "left"
+    },
+    {
+      "id": "83797d2e8144c302",
+      "fromNode": "7b518c3b38c63708",
+      "fromSide": "bottom",
+      "toNode": "1aaea31a1ecc03bf",
+      "toSide": "left"
+    },
+    {
+      "id": "b87dd8ad30334de5",
+      "fromNode": "7b518c3b38c63708",
+      "fromSide": "bottom",
+      "toNode": "17cd12578087700f",
+      "toSide": "left"
+    },
+    {
+      "id": "e42ab0854ace7758",
+      "fromNode": "b08e271c99bd7482",
+      "fromSide": "bottom",
+      "toNode": "21fa91c0a5ca6b41",
+      "toSide": "left"
+    },
+    {
+      "id": "ecfac3e48a9e17a8",
+      "fromNode": "b08e271c99bd7482",
+      "fromSide": "right",
+      "toNode": "a20638d7d23028c8",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "637ddc61eb80e2fc",
+      "fromNode": "a20638d7d23028c8",
+      "fromSide": "bottom",
+      "toNode": "1f522c3436727620",
+      "toSide": "left"
+    },
+    {
+      "id": "62f6605f9a8a3609",
+      "styleAttributes": {},
+      "fromNode": "1e28628cb9e02747",
+      "fromSide": "right",
+      "toNode": "16675cf57a7d91a1",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "f0091db688677f13",
+      "styleAttributes": {},
+      "fromNode": "5d2897ae69787653",
+      "fromSide": "right",
+      "toNode": "e72ba85fb2cb6f4a",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "0aa674e8085b45f1",
+      "styleAttributes": {},
+      "fromNode": "23b60ed972cc927f",
+      "fromSide": "right",
+      "toNode": "42a808d6c5733b4f",
+      "toSide": "left"
+    },
+    {
+      "id": "912b946e00ba101a",
+      "styleAttributes": {},
+      "fromNode": "bf01fa8e25f1eec8",
+      "fromSide": "right",
+      "toNode": "59f4dcd762dcfb59",
+      "toSide": "left"
+    },
+    {
+      "id": "8e6a4bd8a43f83fb",
+      "styleAttributes": {},
+      "fromNode": "709ff5a02a4616d7",
+      "fromSide": "bottom",
+      "toNode": "bf01fa8e25f1eec8",
+      "toSide": "left"
+    },
+    {
+      "id": "69f071f250ebfdc0",
+      "styleAttributes": {},
+      "fromNode": "8e665a791d2e9d4e",
+      "fromSide": "bottom",
+      "toNode": "709ff5a02a4616d7",
+      "toSide": "left"
+    },
+    {
+      "id": "b633934613e69ac0",
+      "styleAttributes": {},
+      "fromNode": "e472b13892a2ce66",
+      "fromSide": "right",
+      "toNode": "8e665a791d2e9d4e",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "0436729b4d994bc6",
+      "styleAttributes": {},
+      "fromNode": "bf3d82668b43168e",
+      "fromSide": "right",
+      "toNode": "d8eef94482bb7f7e",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "7a914907ba9ab2bd",
+      "styleAttributes": {},
+      "fromNode": "1e8543c791fd8def",
+      "fromSide": "bottom",
+      "toNode": "fa8c297e6fe164b1",
+      "toSide": "left"
+    },
+    {
+      "id": "d9167f601e3f856c",
+      "styleAttributes": {},
+      "fromNode": "2ba2ea25cd69d283",
+      "fromSide": "bottom",
+      "toNode": "1e8543c791fd8def",
+      "toSide": "left"
+    },
+    {
+      "id": "e13e0b47657ee84c",
+      "styleAttributes": {},
+      "fromNode": "2ba2ea25cd69d283",
+      "fromSide": "right",
+      "toNode": "5e43c72d47e7d67a",
+      "toSide": "left",
+      "label": "hoti"
+    },
+    {
+      "id": "9a6e6f9fc4e82635",
+      "styleAttributes": {},
+      "fromNode": "1e8543c791fd8def",
+      "fromSide": "bottom",
+      "toNode": "10a078509eefeae3",
+      "toSide": "left"
+    },
+    {
+      "id": "89d75a633301bdf9",
+      "styleAttributes": {},
+      "fromNode": "2ba2ea25cd69d283",
+      "fromSide": "left",
+      "toNode": "bf3d82668b43168e",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "4f3b2b89d598bbab",
+      "styleAttributes": {},
+      "fromNode": "ddbf6f82dac421b5",
+      "fromSide": "right",
+      "toNode": "362385005bd23bea",
+      "toSide": "right"
+    },
+    {
+      "id": "89b8647d03dfb544",
+      "fromNode": "81edcfd970688403",
+      "fromSide": "right",
+      "toNode": "dc2d1be620046848",
+      "toSide": "left",
+      "toEnd": "none"
+    },
+    {
+      "id": "f5499aea445ff677",
+      "fromNode": "d7d8637200fc4915",
+      "fromSide": "bottom",
+      "toNode": "11b6de5429eaacb5",
+      "toSide": "left"
+    },
+    {
+      "id": "ce2b4a71033b8856",
+      "styleAttributes": {},
+      "fromNode": "81edcfd970688403",
+      "fromSide": "bottom",
+      "toNode": "d7d8637200fc4915",
+      "toSide": "left"
+    },
+    {
+      "id": "7c6c4902d9839f36",
+      "styleAttributes": {},
+      "fromNode": "362385005bd23bea",
+      "fromSide": "left",
+      "toNode": "def7b7a5e1645fb0",
+      "toSide": "left"
+    },
+    {
+      "id": "decd2aa05b8a90ea",
+      "styleAttributes": {},
+      "fromNode": "def7b7a5e1645fb0",
+      "fromSide": "left",
+      "toNode": "09d322dce938a22c",
+      "toSide": "right"
+    },
+    {
+      "id": "81d0bc1d8dfd5b3b",
+      "styleAttributes": {},
+      "fromNode": "09d322dce938a22c",
+      "fromSide": "bottom",
+      "toNode": "f53a2f34477ec77d",
+      "toSide": "top"
+    },
+    {
+      "id": "82696004f1220528",
+      "styleAttributes": {},
+      "fromNode": "f53a2f34477ec77d",
+      "fromSide": "right",
+      "toNode": "75c49dfb98ecf21b",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}

@@ -1,0 +1,300 @@
+{
+  "nodes": [
+    {
+      "id": "b316a8d3716c7546",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1897,
+      "y": 160,
+      "width": 2063,
+      "height": 1140,
+      "label": "1"
+    },
+    {
+      "id": "e7d07181a5eab3bb",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 2740,
+      "y": -860,
+      "width": 1100,
+      "height": 1000,
+      "label": "2"
+    },
+    {
+      "id": "2e47bb9d083ef18e",
+      "type": "file",
+      "file": "5. Storage/8b13c692b034086a5125.jpg",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -200,
+      "width": 380,
+      "height": 824
+    },
+    {
+      "id": "677f92079d50b992",
+      "type": "text",
+      "text": "### BUDDHAGHOSA’S COMMENTARY ON THE DHAMMASANGANI\n\nTHE FIRST BOOK OF THE ABHIDHAMMA PITAKA\n\n>",
+      "styleAttributes": {},
+      "x": 1160,
+      "y": 40,
+      "width": 260,
+      "height": 400
+    },
+    {
+      "id": "908aba7b1a96d897",
+      "type": "text",
+      "text": "### Abhidammaṃ paṭibāhento imasmiṃ janacakke pahāraṃ deti",
+      "styleAttributes": {},
+      "x": 220,
+      "y": 160,
+      "width": 740,
+      "height": 160
+    },
+    {
+      "id": "186d6493783f2269",
+      "type": "text",
+      "text": "### ābhidhammikabhikkhūyeva kira dhammakathikā nāma, avasesā dhammakatthaṃ kathentāpi na dhammakathaṃ. - [atthasālinī Nidānakathā]",
+      "styleAttributes": {},
+      "x": 220,
+      "y": -140,
+      "width": 620,
+      "height": 240
+    },
+    {
+      "id": "8d7131e815a14ba4",
+      "type": "text",
+      "text": "# ābhidhammaka\n# bhikhū +\n# ya + eva\n**ya**: which; what; whatever. (relative pron.)\nĐại từ quan hệ",
+      "styleAttributes": {},
+      "x": 1880,
+      "y": -340,
+      "width": 580,
+      "height": 400
+    },
+    {
+      "id": "4f69c91f7de600a5",
+      "type": "text",
+      "text": "# avasesa \n1 adj. **remaining; rest of** [►](https://dpdict.net/?q=avases%C4%81%09#avasesa_1)\n\n[avasesa 2](https://dpdict.net/?q=avases%C4%81%09#avasesa_2) masc. **remainder; rest** [►](https://dpdict.net/?q=avases%C4%81%09#avasesa_2)",
+      "styleAttributes": {},
+      "x": 2760,
+      "y": -840,
+      "width": 400,
+      "height": 138
+    },
+    {
+      "id": "d03036f10e33cb87",
+      "type": "text",
+      "text": "Buddhaghosa's commentary [Chú giải của Ngài Buddhaghosa] on the Dhammasanganippakarana [Tập 1 - It is the first of the seven texts of the [Abhidhamma Pitaka] - Bộ Pháp Tụ] of the Abhidhamma Pitaka [Tạng vi diệu Pháp]. \n\n---\n [The Nidānakathā, or Introduction to the Jātaka Stories published on Ancient-Buddhist-Texts.net: Why you should read it](https://discourse.suttacentral.net/t/the-nidanakatha-or-introduction-to-the-jataka-stories-published-on-ancient-buddhist-texts-net-why-you-should-read-it/18168)",
+      "styleAttributes": {},
+      "x": 3920,
+      "y": -900,
+      "width": 480,
+      "height": 300
+    },
+    {
+      "id": "b89f195e1ba5dc68",
+      "type": "text",
+      "text": "### ābhidhammikabhikhūyeva kira dhammakathikā nāma, avasesā dhammakatthaṃ   na dhammakathaṃ. - [atthasālinī Nidānakathā]",
+      "styleAttributes": {},
+      "x": 3260,
+      "y": -900,
+      "width": 620,
+      "height": 240
+    },
+    {
+      "id": "9eb9ec3b225975ae",
+      "type": "text",
+      "text": "# kattha\n[kattha 2.1](https://dpdict.net/?q=Kattha%E1%B9%83%09#kattha_2_1) nt. **timber, piece of wood** [►](https://dpdict.net/?q=Kattha%E1%B9%83%09#kattha_2_1)\nwood prepared for use in building and carpentry.\n\n\"the exploitation of forests for timber\"",
+      "styleAttributes": {},
+      "x": 2760,
+      "y": -640,
+      "width": 400,
+      "height": 280
+    },
+    {
+      "id": "dcde7e07fa04934f",
+      "type": "text",
+      "text": "# tā = that",
+      "styleAttributes": {},
+      "x": 2760,
+      "y": 60,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8292d8c0922ac271",
+      "type": "text",
+      "text": "# ye + eva\n**ya**: which; what; whatever. (relative pron.)\nĐại từ quan hệ",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 480,
+      "width": 260,
+      "height": 180
+    },
+    {
+      "id": "8b7e0a807792084c",
+      "type": "text",
+      "text": "# ābhidhammikā (masc. )\n## one well versed in the Abhidhamma; teacher of the higher doctrine\n1. một người thông thạo abhidhamma\n2. Một vị thầy giảng dạy abhidhamma",
+      "styleAttributes": {},
+      "x": 2460,
+      "y": 258,
+      "width": 646,
+      "height": 240
+    },
+    {
+      "id": "159dd230e22b9553",
+      "type": "text",
+      "text": "# Dhamma",
+      "styleAttributes": {},
+      "x": 2760,
+      "y": -340,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c5e2351f2215b172",
+      "type": "text",
+      "text": "# kathena-tāpi\nadj. **with words; having talk; asking** [√kath + ā + a] ✓\nNam tính / Trungtính số ít",
+      "styleAttributes": {},
+      "x": 2760,
+      "y": -200,
+      "width": 360,
+      "height": 200
+    },
+    {
+      "id": "80e8233ae7d03d48",
+      "type": "text",
+      "text": "# katha\nadj. **with words; having talk; asking**",
+      "styleAttributes": {},
+      "x": 3160,
+      "y": -200,
+      "width": 260,
+      "height": 200
+    },
+    {
+      "id": "5633e69c3b5e0244",
+      "type": "text",
+      "text": "# bhikhū\nChủ cách, TBC số nhiều",
+      "styleAttributes": {},
+      "x": 1940,
+      "y": 312,
+      "width": 260,
+      "height": 132
+    },
+    {
+      "id": "2e00f9711a296fa3",
+      "type": "text",
+      "text": "### ābhidhammikabhikhūyeva kira dhammakathikā nāma, avasesā dhammakatthaṃ   na dhammakathaṃ. - [atthasālinī Nidānakathā]",
+      "styleAttributes": {},
+      "x": 3260,
+      "y": 258,
+      "width": 620,
+      "height": 240
+    },
+    {
+      "id": "519d64ef1da2de60",
+      "type": "text",
+      "text": "# [kathika 1](https://dpdict.net/?q=kathik%C4%81%09#kathika_1) adj. **who talks; speaking about** [►](https://dpdict.net/?q=kathik%C4%81%09#kathika_1)\n\n[kathika 2](https://dpdict.net/?q=kathik%C4%81%09#kathika_2) masc. **talker; speaker** [►](https://dpdict.net/?q=kathik%C4%81%09#kathika_2)\n\n[kathikā](https://dpdict.net/?q=kathik%C4%81%09#kathik%C4%81) fem. **mutual agreement, pact; group decision** [►](https://dpdict.net/?q=kathik%C4%81%09#kathik%C4%81)",
+      "styleAttributes": {},
+      "x": 3500,
+      "y": 1145,
+      "width": 380,
+      "height": 320
+    },
+    {
+      "id": "52fdb3cdc06594f4",
+      "type": "text",
+      "text": "# Những vị tì khưu nào LÀ người thông thạo Abidhamma THỰC SỰ",
+      "styleAttributes": {},
+      "x": 2000,
+      "y": 735,
+      "width": 1070,
+      "height": 100
+    },
+    {
+      "id": "651839f9ac382121",
+      "type": "text",
+      "text": "# (te)",
+      "styleAttributes": {},
+      "x": 2000,
+      "y": 970,
+      "width": 260,
+      "height": 75
+    },
+    {
+      "id": "f85fb393a11f8c3c",
+      "type": "text",
+      "text": "# dhammakathikā\n---\nNgười giảng Pháp",
+      "styleAttributes": {},
+      "x": 3007,
+      "y": 890,
+      "width": 323,
+      "height": 220
+    },
+    {
+      "id": "6d26bdfaf8f76dac",
+      "type": "text",
+      "text": "# kira\n[kira 1](https://dpdict.net/?q=kira#kira_1) ind. **really; truly; definitely**",
+      "styleAttributes": {},
+      "x": 3070,
+      "y": 1145,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "6b4db96979d6c67d",
+      "type": "text",
+      "text": "# Nāma\n[nāma 1](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_1) ind. **certainly; truly; for sure** [►](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_1)\n\n[nāma 2](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_2) ind. **called; means; by the name of; namely**; lit. name [►](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_2)\n\n[nāma 3](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_3) nt. **name** [►](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_3)\n\n[nāma 4](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_4) nt. **mental objects of consciousness; mentality; mental factors of feeling, perception, intention, contact and attention**; lit. name [►](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_4)\n\n[nāma 5](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_5) adj. **called; named**; lit. name [►](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_5)\n\n[nāma 6](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_6) ind. **normally; usually** [►](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_6)\n\n[nāma 7](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_7) nt. **(gram) noun; substantive**; lit. name [►](https://dpdict.net/?q=n%C4%81ma%09#n%C4%81ma_7)",
+      "styleAttributes": {},
+      "x": 2060,
+      "y": 1145,
+      "width": 590,
+      "height": 410
+    }
+  ],
+  "edges": [
+    {
+      "id": "f27ef5f03b816d41",
+      "styleAttributes": {},
+      "fromNode": "5633e69c3b5e0244",
+      "fromSide": "bottom",
+      "toNode": "8292d8c0922ac271",
+      "toSide": "left"
+    },
+    {
+      "id": "cdd190ef06d92360",
+      "styleAttributes": {},
+      "fromNode": "5633e69c3b5e0244",
+      "fromSide": "right",
+      "toNode": "8b7e0a807792084c",
+      "toSide": "left",
+      "label": "honti"
+    },
+    {
+      "id": "00da80da994d6cc9",
+      "styleAttributes": {},
+      "fromNode": "f85fb393a11f8c3c",
+      "fromSide": "bottom",
+      "toNode": "6d26bdfaf8f76dac",
+      "toSide": "left"
+    },
+    {
+      "id": "1582c0d22f9147aa",
+      "styleAttributes": {},
+      "fromNode": "651839f9ac382121",
+      "fromSide": "bottom",
+      "toNode": "6b4db96979d6c67d",
+      "toSide": "left",
+      "label": "honti"
+    },
+    {
+      "id": "02d7824948b944b4",
+      "styleAttributes": {},
+      "fromNode": "651839f9ac382121",
+      "fromSide": "right",
+      "toNode": "f85fb393a11f8c3c",
+      "toSide": "left",
+      "label": "honti"
+    }
+  ],
+  "metadata": {}
+}

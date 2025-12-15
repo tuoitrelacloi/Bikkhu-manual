@@ -1,0 +1,55 @@
+{
+  "nodes": [
+    {
+      "id": "612482eb8bc72203",
+      "type": "text",
+      "text": "# Buổi học thứ 6 - Ngày 8 tháng 11\n",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -40,
+      "width": 580,
+      "height": 80
+    },
+    {
+      "id": "feea7a0466872bbf",
+      "type": "text",
+      "text": "# Chờ tí ",
+      "styleAttributes": {},
+      "x": -740,
+      "y": 160,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "78c623168707cb30",
+      "type": "text",
+      "text": "# viharati",
+      "styleAttributes": {},
+      "x": -100,
+      "y": 160,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b173a4a4c8e4688a",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 30,
+      "y": 320,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "39a78d61b58e0dd5",
+      "styleAttributes": {},
+      "fromNode": "78c623168707cb30",
+      "fromSide": "bottom",
+      "toNode": "b173a4a4c8e4688a",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

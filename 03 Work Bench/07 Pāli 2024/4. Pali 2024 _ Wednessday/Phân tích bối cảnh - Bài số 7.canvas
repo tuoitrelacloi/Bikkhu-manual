@@ -1,0 +1,374 @@
+{
+  "nodes": [
+    {
+      "id": "5b3ee1958e7d40b4",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -1760,
+      "y": 4000,
+      "width": 3129,
+      "height": 1760,
+      "label": "New Slide"
+    },
+    {
+      "id": "20a34b3d19c83a04",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -1790,
+      "y": 1885,
+      "width": 2670,
+      "height": 1502,
+      "label": "New Slide"
+    },
+    {
+      "id": "fff0b14225bc1718",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "x": 1369,
+      "y": 1908,
+      "width": 2629,
+      "height": 1479,
+      "label": "New Slide"
+    },
+    {
+      "id": "3b56f8cfe4fe0987",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "styleAttributes": {},
+      "x": -1680,
+      "y": 200,
+      "width": 2000,
+      "height": 1125,
+      "label": "New Slide"
+    },
+    {
+      "id": "8453b9fa77e005df",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "styleAttributes": {},
+      "x": -1720,
+      "y": -1160,
+      "width": 1529,
+      "height": 860,
+      "label": "Start Slide"
+    },
+    {
+      "id": "40bd2206269035c4",
+      "type": "text",
+      "text": "## Nhà vua nghe tiếng, vô cùng kính trọng, vời về cung, ban tước quốc sư và sai tu bổ một ngôi chùa ở phía Nam kinh thành để cho sư trụ trì. ",
+      "styleAttributes": {},
+      "x": -940,
+      "y": -908,
+      "width": 640,
+      "height": 170
+    },
+    {
+      "id": "a9f623bacbdd7a84",
+      "type": "text",
+      "text": "## Ngày xưa có một vị hòa thượng trẻ tuổi nổi tiếng chân tu.",
+      "styleAttributes": {},
+      "x": -940,
+      "y": -1078,
+      "width": 640,
+      "height": 120
+    },
+    {
+      "id": "e2ce93b65e8d0263",
+      "type": "text",
+      "text": "### (1) Vị hòa thượng ở trong truyện trên có danh tiếng hay không? Từ đó, anh/chị rút ra ý nghĩa gì về câu chuyện này?",
+      "styleAttributes": {},
+      "x": -1680,
+      "y": -878,
+      "width": 520,
+      "height": 140
+    },
+    {
+      "id": "5bf0b1c98c8a2604",
+      "type": "text",
+      "text": "### 1. Vị hòa thượng trong truyện có danh tiếng, có danh thơm, tiếng-tốt\n- Nổi tiếng Chân Tu\n- Nhà vua nghe tiếng\n- Nhà vua kính trọng\n- Ban tước Quốc Sư\n",
+      "styleAttributes": {},
+      "x": -1680,
+      "y": -560,
+      "width": 1380,
+      "height": 200
+    },
+    {
+      "id": "1cec71b216c894fe",
+      "type": "text",
+      "text": "## Từ lâu Phật bà Quan âm đã nghe tiếng đồn về hòa thượng.",
+      "styleAttributes": {},
+      "x": -980,
+      "y": -680,
+      "width": 680,
+      "height": 100
+    },
+    {
+      "id": "80cbf4c6814a593c",
+      "type": "text",
+      "text": "#  (3b) Từ cách thử thách đó, theo anh/chị, người dân lưu truyền câu chuyện này quan niệm thế nào về việc tu hành – tức thế nào là tu hành? ",
+      "styleAttributes": {},
+      "x": -1440,
+      "y": 1600,
+      "width": 880,
+      "height": 140
+    },
+    {
+      "id": "6736f560f5b9d46e",
+      "type": "text",
+      "text": "## (3a) Phật Bà thử thách vị hòa thượng bằng cách nào? (3b) Từ cách thử thách đó, theo anh/chị, người dân lưu truyền câu chuyện này quan niệm thế nào về việc tu hành – tức thế nào là tu hành? (3c) Quan niệm tu hành ấy giống hay khác với cách tu hành của truyền thống Theravada, nếu khác thì khác ở điểm nào?",
+      "styleAttributes": {},
+      "x": -1700,
+      "y": 2100,
+      "width": 1020,
+      "height": 200
+    },
+    {
+      "id": "ffe4c2bc55ce56ed",
+      "type": "text",
+      "text": "## Biến thành cô gái xinh đẹp và quyến rũ vị hòa thượng",
+      "styleAttributes": {},
+      "x": -340,
+      "y": 2100,
+      "width": 540,
+      "height": 100
+    },
+    {
+      "id": "d1d81e675d7aef81",
+      "type": "text",
+      "text": "## Quan niệm về việc tu hành?",
+      "styleAttributes": {},
+      "x": -340,
+      "y": 2300,
+      "width": 540,
+      "height": 80
+    },
+    {
+      "id": "2cb94464e20dc328",
+      "type": "text",
+      "text": "# Chỉ cần kiềm chế được dục vọng\nĐây là những bất thiện ở mức thô thiển, bề mặt!",
+      "styleAttributes": {},
+      "x": -70,
+      "y": 2500,
+      "width": 740,
+      "height": 180
+    },
+    {
+      "id": "c80ac605ca547da7",
+      "type": "text",
+      "text": "# (4a) Theo anh/chị, cách xử lý ở cuối chuyện của Phật Bà hướng phàm hay hướng thượng? ",
+      "styleAttributes": {},
+      "x": -1560,
+      "y": 4200,
+      "width": 480,
+      "height": 240
+    },
+    {
+      "id": "34f178682a1b037f",
+      "type": "text",
+      "text": "# 1 Không tin ngay vào danh tiếng\nCàng nhiều danh tiếng càng dễ bị thử thách\n",
+      "styleAttributes": {},
+      "x": -1240,
+      "y": -240,
+      "width": 1011,
+      "height": 280
+    },
+    {
+      "id": "93de05cf378a4aa5",
+      "type": "text",
+      "text": "# Nhưng hòa thượng từ tạ vua, chỉ xin phép đi xem chùa chiền, cảnh đẹp trong thiên hạ.",
+      "styleAttributes": {},
+      "x": -720,
+      "y": 240,
+      "width": 560,
+      "height": 160
+    },
+    {
+      "id": "865b4d4072eec904",
+      "type": "text",
+      "text": "# Không ham muốn tài sản, sở hữu hay quyền lực\n---\nTừ chối Chức vị Quốc sư\nTừ chối ngôi chùa to lớn\n...",
+      "styleAttributes": {},
+      "x": -20,
+      "y": 240,
+      "width": 260,
+      "height": 460
+    },
+    {
+      "id": "2a6727727f9f2c89",
+      "type": "text",
+      "text": "## (2) Theo câu chuyện trên, người tu để thành Phật phải hội tụ những yếu tố nào?",
+      "styleAttributes": {},
+      "x": -1560,
+      "y": 340,
+      "width": 560,
+      "height": 120
+    },
+    {
+      "id": "4a6b61e434fa47f6",
+      "type": "text",
+      "text": "## Nếu quả đúng là chân tu thì Phật bà sẽ đưa về Tây-trúc, độ cho thành Phật.",
+      "styleAttributes": {},
+      "x": -771,
+      "y": 560,
+      "width": 663,
+      "height": 140
+    },
+    {
+      "id": "fcf4942d75932ec2",
+      "type": "text",
+      "text": "# Sự cám dỗ của Nữ sắc\n--- \nĐây được coi là cửa ải cuối cùng, vượt qua ải này sẽ dễ dàng thành Phật",
+      "styleAttributes": {},
+      "x": -440,
+      "y": 800,
+      "width": 680,
+      "height": 160
+    },
+    {
+      "id": "a41f0b9f73802915",
+      "type": "text",
+      "text": "## 1. Cắt đứt thị dục\n## 2. Chuyên chú lẽ hư vô đạo thiền\n## 3. Phật bà thử thách\n\n## 4. Phật bà đưa về Tây trúc độ cho",
+      "styleAttributes": {},
+      "x": -1321,
+      "y": 700,
+      "width": 550,
+      "height": 260
+    },
+    {
+      "id": "693bd34426366086",
+      "type": "text",
+      "text": "## Giữ giới\n## Tự mình tu tập, không dựa vào ai khác\n\n",
+      "styleAttributes": {},
+      "x": -1320,
+      "y": 2530,
+      "width": 640,
+      "height": 150
+    },
+    {
+      "id": "b35dcfa5d1c5e68f",
+      "type": "text",
+      "text": "## tìm cách tiếp xúc, cám dỗ, ",
+      "styleAttributes": {},
+      "x": -340,
+      "y": 1960,
+      "width": 540,
+      "height": 120
+    },
+    {
+      "id": "be52783ec800dc16",
+      "type": "text",
+      "text": "# Chịu đựng thị phi",
+      "styleAttributes": {},
+      "x": -1190,
+      "y": 2745,
+      "width": 510,
+      "height": 110
+    },
+    {
+      "id": "6b005ff3d8fb95c5",
+      "type": "text",
+      "text": "# Dồn nén cảm xúc",
+      "styleAttributes": {},
+      "x": -1190,
+      "y": 2920,
+      "width": 510,
+      "height": 80
+    },
+    {
+      "id": "0dc3f09efb2e2a0c",
+      "type": "text",
+      "text": "# Xô đẩy\n# Cho cái bạt tai cho tỉnh\n# Nhảy xuống sông\n# lên bờ",
+      "styleAttributes": {},
+      "x": -1190,
+      "y": 3080,
+      "width": 510,
+      "height": 280
+    },
+    {
+      "id": "97bcf85b8cd66340",
+      "type": "text",
+      "text": "# Theo truyền thống Theravada\n - Kiềm chế dục vọng, không làm cho nó trở thành hành động chỉ là bước đầu tiên, cơ bản!\n - Đây thuộc về phần GIỚI - Không làm những việc bất thiền, không nói lời bất thiện\n - Nhưng còn có 2 phần khác: Là ĐỊNH và TUỆ thì trong truyện này không nói tới",
+      "styleAttributes": {},
+      "x": 1509,
+      "y": 2072,
+      "width": 840,
+      "height": 160
+    }
+  ],
+  "edges": [
+    {
+      "id": "096312197f1c16d3",
+      "styleAttributes": {},
+      "fromNode": "e2ce93b65e8d0263",
+      "fromSide": "right",
+      "toNode": "a9f623bacbdd7a84",
+      "toSide": "left"
+    },
+    {
+      "id": "d9793d0d124682ca",
+      "styleAttributes": {},
+      "fromNode": "2a6727727f9f2c89",
+      "fromSide": "right",
+      "toNode": "93de05cf378a4aa5",
+      "toSide": "left"
+    },
+    {
+      "id": "0616b899d8d83046",
+      "styleAttributes": {},
+      "fromNode": "2a6727727f9f2c89",
+      "fromSide": "right",
+      "toNode": "4a6b61e434fa47f6",
+      "toSide": "left"
+    },
+    {
+      "id": "38f687072ff629a4",
+      "styleAttributes": {},
+      "fromNode": "4a6b61e434fa47f6",
+      "fromSide": "bottom",
+      "toNode": "fcf4942d75932ec2",
+      "toSide": "left"
+    },
+    {
+      "id": "780e0d9219546e31",
+      "styleAttributes": {},
+      "fromNode": "93de05cf378a4aa5",
+      "fromSide": "right",
+      "toNode": "865b4d4072eec904",
+      "toSide": "left"
+    },
+    {
+      "id": "419a6d0f00b1e6ec",
+      "styleAttributes": {},
+      "fromNode": "3b56f8cfe4fe0987",
+      "fromSide": "left",
+      "toNode": "20a34b3d19c83a04",
+      "toSide": "left"
+    },
+    {
+      "id": "ea1687a61e346b2d",
+      "styleAttributes": {},
+      "fromNode": "8453b9fa77e005df",
+      "fromSide": "left",
+      "toNode": "3b56f8cfe4fe0987",
+      "toSide": "left"
+    },
+    {
+      "id": "8bcf8e50e393226b",
+      "styleAttributes": {},
+      "fromNode": "e2ce93b65e8d0263",
+      "fromSide": "bottom",
+      "toNode": "1cec71b216c894fe",
+      "toSide": "left"
+    },
+    {
+      "id": "a035229d6fd8b997",
+      "styleAttributes": {},
+      "fromNode": "2a6727727f9f2c89",
+      "fromSide": "bottom",
+      "toNode": "a41f0b9f73802915",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
