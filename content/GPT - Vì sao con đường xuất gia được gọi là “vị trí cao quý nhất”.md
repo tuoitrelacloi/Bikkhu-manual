@@ -1,3 +1,10 @@
+---
+title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+draft: false
+tags:
+  - 
+---
+ 
 Câu hỏi này **rất đúng trọng tâm lời Phật dạy**. Mình xin giải thích **sâu, có kinh điển làm nền**, nhưng trình bày **dễ hiểu**, đúng tinh thần **Phật giáo Nguyên thủy (Theravāda)**.
 
 ---
