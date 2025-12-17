@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Việc hành thiền
 draft: false
 tags:
   - 
