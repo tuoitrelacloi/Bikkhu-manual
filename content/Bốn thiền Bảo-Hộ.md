@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: "Bốn thiền Bảo-Hộ"
 draft: false
 tags:
   - 
