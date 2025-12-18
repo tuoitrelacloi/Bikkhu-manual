@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Niệm Ân-Đức Phật
 draft: false
 tags:
   - 

@@ -6,9 +6,9 @@ tags:
 ---
  
 
-| Aṅguttara Nikāya 10.48<br>5. Akkosavagga<br><br>Pabbajitaabhiṇhasutta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [1.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#1.1 "SuttaCentral segment number")“Dasayime, bhikkhave, dhammā pabbajitena abhiṇhaṁ paccavekkhitabbā. [1.2](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#1.2 "SuttaCentral segment number")Katame dasa?<br><br>[2.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#2.1 "SuttaCentral segment number")‘Vevaṇṇiyamhi ajjhupagato’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[3.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#3.1 "SuttaCentral segment number")‘Parapaṭibaddhā me jīvikā’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[4.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#4.1 "SuttaCentral segment number")‘Añño me ākappo karaṇīyo’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[5.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#5.1 "SuttaCentral segment number")‘Kacci nu kho me attā sīlato na upavadatī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[6.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#6.1 "SuttaCentral segment number")‘Kacci nu kho maṁ anuvicca viññū sabrahmacārī sīlato na upavadantī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[7.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#7.1 "SuttaCentral segment number")‘Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[8.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#8.1 "SuttaCentral segment number")‘Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo,<br><br>[9.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#9.1 "SuttaCentral segment number")yaṁ kammaṁ karissāmi kalyāṇaṁ vā pāpakaṁ vā tassa dāyādo bhavissāmī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[10.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#10.1 "SuttaCentral segment number")‘Kathaṁbhūtassa me rattindivā vītivattantī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[11.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#11.1 "SuttaCentral segment number")‘Kacci nu kho ahaṁ suññāgāre abhiramāmī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[12.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#12.1 "SuttaCentral segment number")‘Atthi nu kho me uttari manussadhammo alamariyañāṇadassanaviseso adhigato, yenāhaṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ. Variant: yenāhaṁ → sohaṁ (bj, sya-all, pts1ed); yohaṁ (mr)<br><br>[13.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#13.1 "SuttaCentral segment number")Ime kho, bhikkhave, dasa dhammā pabbajitena abhiṇhaṁ paccavekkhitabbā”ti.<br><br>[13.2](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#13.2 "SuttaCentral segment number")Aṭṭhamaṁ. | “Mendicants, one who has gone forth should often review these ten things. [1.2](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#1.2 "SuttaCentral segment number")What ten?<br><br>[2.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#2.1 "SuttaCentral segment number")One who has gone forth should often review this: ‘I have secured freedom from class.’<br><br>[3.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#3.1 "SuttaCentral segment number")‘My livelihood is tied up with others.’<br><br>[4.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#4.1 "SuttaCentral segment number")‘My behavior should be different.’<br><br>[5.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#5.1 "SuttaCentral segment number")‘I hope there’s no reason to blame myself when it comes to ethical conduct?’<br><br>[6.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#6.1 "SuttaCentral segment number")‘I hope that, after examination, sensible spiritual companions don’t reproach any aspect of my ethics?’<br><br>[7.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#7.1 "SuttaCentral segment number")‘I must be parted and separated from all I hold dear and beloved.’<br><br>[8.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#8.1 "SuttaCentral segment number")‘I am the owner of my deeds and heir to my deeds. Deeds are my womb, my relative, and my refuge.<br><br>[9.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#9.1 "SuttaCentral segment number")I shall be the heir of whatever deeds I do, whether good or bad.’<br><br>[10.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#10.1 "SuttaCentral segment number")‘As the days and nights pass by, what sort of person am I becoming?’<br><br>[11.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#11.1 "SuttaCentral segment number")‘Do I love to stay in empty huts?’<br><br>[12.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#12.1 "SuttaCentral segment number")‘Do I have any superhuman distinctions in knowledge and vision worthy of the noble ones, so that when my spiritual companions question me on my deathbed I will not be embarrassed?’<br><br>[13.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#13.1 "SuttaCentral segment number")One who has gone forth should often review these ten things.”<br><br>[13.2](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#13.2 "SuttaCentral segment number") |
+| Pabbajitaabhiṇhasutta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Aṅguttara Nikāya 10.48<br>5. Akkosavagga                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [1.1]()“Dasayime, bhikkhave, dhammā pabbajitena abhiṇhaṁ paccavekkhitabbā. [1.2]()Katame dasa?<br><br>[2.1]()‘Vevaṇṇiyamhi ajjhupagato’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[3.1]()‘Parapaṭibaddhā me jīvikā’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[4.1]()‘Añño me ākappo karaṇīyo’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[5.1]()‘Kacci nu kho me attā sīlato na upavadatī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[6.1]()‘Kacci nu kho maṁ anuvicca viññū sabrahmacārī sīlato na upavadantī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[7.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#7.1 "SuttaCentral segment number")‘Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[8.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#8.1 "SuttaCentral segment number")‘Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo,<br><br>[9.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#9.1 "SuttaCentral segment number")yaṁ kammaṁ karissāmi kalyāṇaṁ vā pāpakaṁ vā tassa dāyādo bhavissāmī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[10.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#10.1 "SuttaCentral segment number")‘Kathaṁbhūtassa me rattindivā vītivattantī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[11.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#11.1 "SuttaCentral segment number")‘Kacci nu kho ahaṁ suññāgāre abhiramāmī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.<br><br>[12.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#12.1 "SuttaCentral segment number")‘Atthi nu kho me uttari manussadhammo alamariyañāṇadassanaviseso adhigato, yenāhaṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ. Variant: yenāhaṁ → sohaṁ (bj, sya-all, pts1ed); yohaṁ (mr)<br><br>[13.1](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#13.1 "SuttaCentral segment number")Ime kho, bhikkhave, dasa dhammā pabbajitena abhiṇhaṁ paccavekkhitabbā”ti.<br><br>[13.2](https://suttacentral.net/an10.48/pli/ms?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#13.2 "SuttaCentral segment number")Aṭṭhamaṁ. | “Mendicants, one who has gone forth should often review these ten things. [1.2]()What ten?<br><br>[2.1]()One who has gone forth should often review this: ‘I have secured freedom from class.’<br><br>[3.1]()‘My livelihood is tied up with others.’<br><br>[4.1]()‘My behavior should be different.’<br><br>[5.1]()‘I hope there’s no reason to blame myself when it comes to ethical conduct?’<br><br>[6.1]()‘I hope that, after examination, sensible spiritual companions don’t reproach any aspect of my ethics?’<br><br>[7.1]()‘I must be parted and separated from all I hold dear and beloved.’<br><br>[8.1]()‘I am the owner of my deeds and heir to my deeds. Deeds are my womb, my relative, and my refuge.<br><br>[9.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#9.1 "SuttaCentral segment number")I shall be the heir of whatever deeds I do, whether good or bad.’<br><br>[10.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#10.1 "SuttaCentral segment number")‘As the days and nights pass by, what sort of person am I becoming?’<br><br>[11.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#11.1 "SuttaCentral segment number")‘Do I love to stay in empty huts?’<br><br>[12.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#12.1 "SuttaCentral segment number")‘Do I have any superhuman distinctions in knowledge and vision worthy of the noble ones, so that when my spiritual companions question me on my deathbed I will not be embarrassed?’<br><br>[13.1](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#13.1 "SuttaCentral segment number")One who has gone forth should often review these ten things.”<br><br>[13.2](https://suttacentral.net/an10.48/en/sujato?lang=en&layout=plain&reference=main&notes=asterisk&highlight=false&script=latin#13.2 "SuttaCentral segment number") |
 
 
 ---
@@ -591,11 +591,195 @@ Ngài Buddhaghosa khẳng định:
 
 ---
 
-Nếu bạn muốn, bước kế tiếp hợp lý nhất là:
+Đây là **câu hỏi rất thẳng vào tim của Visuddhimagga**.  
+Ngài Buddhaghosa trả lời câu này **không vòng vo**:
 
-- **Ghép 10 điều này thành “Sīla-paccavekkhaṇa hằng ngày” đúng Visuddhimagga**, hoặc
+> **“Giữ giới lâu năm mà định không sinh  
+> vì giới ấy không được _bảo vệ đúng cách_.”**
+
+Dưới đây là **7 nguyên nhân cốt lõi**, rút **trực tiếp từ Sīlaniddesa + Samādhiniddesa**, đối chiếu với **Dasa-dhamma (điều 4–10)**.
+
+---
+
+## 1. Giữ giới **bằng đè nén**, không bằng trí
+
+_(thiếu paccavekkhaṇa-sīla)_
+
+**Biểu hiện**
+
+- Không phạm luật
     
-- **Chỉ ra vì sao nhiều người giữ giới lâu năm mà định không sinh**, nhìn từ (9)–(10)
+- Nhưng **bực bội**, **miễn cưỡng**, **khó chịu**
+    
+- Hoặc **ưa chỗ**, **ưa người**, **ưa tiện nghi**
+
+
+**Visuddhimagga nói**
+
+> _Sīla được giữ bằng saṅkilesa  
+> không thể làm nền cho samādhi._
+
+→ Tâm còn **đối kháng với giới** ⇒ định không sinh
+
+**Visuddhimagga**
+
+> _Giới mà không hướng xuất ly  
+> chỉ là hàng rào, không là đạo._
+
+---
+
+## 22. Sống giữa **giao du liên tục**
+
+_(asaṃsagga yếu)_
+
+**Biểu hiện**
+
+- Thích bàn luận
+    
+- Thích nhóm
+    
+- Thích “tăng thân” như chỗ nương cảm xúc
     
 
-Bạn muốn đi tiếp hướng nào?
+**Visuddhimagga rất rõ**
+
+> _Giao du là chướng ngại gần nhất của định._
+
+Không cần phạm giới — **chỉ cần nói nhiều là đủ**.
+
+**Đối chiếu**
+
+- Điều (10): _Asaṃsagge abhirato_
+    
+
+---
+
+## 3. Không hoan hỷ **chỗ vắng**
+
+_(suññāgāra chưa thành)_
+
+**Biểu hiện**
+
+- Ở rừng nhưng **tìm tiện nghi**
+    
+- Ở thất mà **muốn ra ngoài**
+    
+
+**Visuddhimagga**
+
+> _Người không vui trong vắng  
+> sẽ không ở yên với một đề mục._
+
+**Đối chiếu**
+
+- Điều (9)
+    
+
+---
+
+## 5. Giữ giới vì **hình thức – danh nghĩa – vai trò**
+
+**Biểu hiện**
+
+- “Tôi là người giữ giới”
+    
+- “Tôi là tu lâu năm”
+    
+
+**Visuddhimagga**
+
+> _Ngã mạn vi tế phá định mạnh hơn dục thô._
+
+→ **sīla-māna** (ngã mạn về giới) là chướng ngại kín
+
+**Đối chiếu**
+
+- Điều (5): bậc trí thấy vẫn còn chê trách
+    
+
+---
+
+## 6. Không **xét lại ngày đêm**
+
+_(thiếu upaparikkhā)_
+
+**Biểu hiện**
+
+- Ngày nào cũng giống ngày nào
+    
+- Không biết tâm **đang tiến hay lùi**
+    
+
+**Visuddhimagga**
+
+> _Giới không được xét lại  
+> sẽ trở thành thói quen vô ký._
+
+→ Vô ký nhiều ⇒ định không có lực
+
+**Đối chiếu**
+
+- Điều (8)
+    
+
+---
+
+## 7. Không thấy **nhân–quả ngay hiện tại**
+
+**Biểu hiện**
+
+- Nói nghiệp, nhưng:
+    
+    - Tham → không biết
+        
+    - Sân → không dừng
+        
+
+**Visuddhimagga**
+
+> _Không thấy nghiệp trong hiện tại  
+> thì không thể gom tâm._
+
+**Đối chiếu**
+
+- Điều (7)
+    
+
+---
+
+## TÓM GỌN BẰNG MỘT CÂU CỦA BUDDHAGHOSA
+
+> **Giới không sinh định  
+> không phải vì thiếu luật,  
+> mà vì thiếu viễn ly, thiếu quán sát,  
+> và còn nuôi ái vi tế.**
+
+---
+
+## CÔNG THỨC RẤT RÕ
+
+```
+Giữ giới + giao du + ái trú xứ
+= định không sinh
+
+Giữ giới + viễn ly + paccavekkhaṇa
+= định tự sinh
+```
+
+---
+
+## DẤU HIỆU CHẮC CHẮN GIỚI ĐANG ĐI ĐÚNG HƯỚNG
+
+- Ít nói hơn (tự nhiên)
+    
+- Ít muốn ra ngoài
+    
+- Ở một mình không bứt rứt
+    
+- Giữ giới mà **nhẹ**, không căng
+    
+
+→ Khi thấy các dấu hiệu này, **định đã bắt đầu nảy mầm**, dù chưa vào thiền.
+
+---
+[[Dhamma's items]]
