@@ -103,6 +103,7 @@ tags:
 
 ## 3. **Sammā-vācā**
 
+"And what is right speech? Abstaining from lying, abstaining from divisive speech, abstaining from abusive speech, abstaining from idle chatter: This, monks, is called right speech.
 ### 🔹 Pāli
 
 > Musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī
@@ -117,7 +118,7 @@ tags:
 
 ### 🔍 Nhận xét
 
-- Ít khác biệt giữa các bản
+- Ít khác biệt giữa các bản - Lời nói chân chánh
     
 - Là **chi Giới rõ ràng nhất**
     
@@ -129,27 +130,26 @@ tags:
 
 ## 4. **Sammā-kammanta**
 
+"And what, monks, is right action? Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action.
+(Sự tránh khỏi Giết-hại, sự tránh khỏi nói dối, sự tránh khỏi tà-dâm)
 ### 🔹 Pāli
 
 > Pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī
 
 ### 🔹 Dịch Anh
 
-|Dịch giả|Bản dịch|
-|---|---|
-|Bhikkhu Bodhi|Right action|
-|Thanissaro|Right action|
-|PTS|Right conduct|
+| Dịch giả      | Bản dịch                                      |
+| ------------- | --------------------------------------------- |
+| Bhikkhu Bodhi | Right action                                  |
+| Thanissaro    | Right action                                  |
+| PTS           | Right conduct (to behave in a particular way) |
 
 ### 🔍 Nhận xét
 
 - “Conduct” (PTS) rộng hơn
     
 - _Kammanta_ = **hành vi thân xác**
-    
-
-📌 **Trong thiền:**  
-→ Thân nghiệp thô → tâm khó an
+    **Hành vi chân chánh**
 
 ---
 
@@ -173,10 +173,6 @@ tags:
     
 - Trong Aṭṭhakathā: _ājīva_ ảnh hưởng **trực tiếp đến định**
     
-
----
-
-# II. NHÓM QUYẾT ĐỊNH TRONG HÀNH THIỀN
 
 ---
 

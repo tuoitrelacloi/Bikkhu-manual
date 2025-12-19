@@ -19,9 +19,9 @@ The Blessed One said, "Now what, monks, is the Noble Eightfold Path? Right view,
 
 "And what is right resolve? Being resolved on renunciation, on freedom from ill will, on harmlessness: This is called right resolve.
 
-"And what is right speech? Abstaining from lying, abstaining from divisive speech, abstaining from abusive speech, abstaining from idle chatter: This, monks, is called right speech.
 
-"And what, monks, is right action? Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action.
+
+
 
 "And what, monks, is right livelihood? There is the case where a disciple of the noble ones, having abandoned dishonest livelihood, keeps his life going with right livelihood: This, monks, is called right livelihood.
 
