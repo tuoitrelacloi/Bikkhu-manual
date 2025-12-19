@@ -56,7 +56,7 @@ tags:
 
 ### 🔍 Nhận xét
 
-- _Diṭṭhi_ **không phải opinion**, mà là **tri kiến đúng về Tứ Thánh Đế (Cái thấy đúng đắn) **
+- _Diṭṭhi_ **không phải opinion**, mà là **tri kiến đúng đắn, như thật về Tứ Thánh Đế (Cái thấy đúng đắn)**
     
 - “Right understanding” dễ gây hiểu lầm là **hiểu bằng lý trí**
 
@@ -80,27 +80,24 @@ tags:
 
 ## 2. **Sammā-saṅkappa**
 
+"And what is right resolve? Being resolved on renunciation, on freedom from ill will, on harmlessness: This is called right resolve.
 ### 🔹 Pāli
 
 > **Nekkhamma-saṅkappo, abyāpāda-saṅkappo, avihiṃsā-saṅkappo**
 
 ### 🔹 Dịch Anh
 
-|Dịch giả|Bản dịch|
-|---|---|
-|Bhikkhu Bodhi|Right intention|
-|Thanissaro|Right resolve|
-|PTS|Right thought|
+| Dịch giả      | Bản dịch                               |
+| ------------- | -------------------------------------- |
+| Bhikkhu Bodhi | **Right intention** (Động cơ, Chủ ý)   |
+| Thanissaro    | Right resolve _(Quyết định. Quả quyết) |
+| PTS           | Right thought _(Suy nghĩ, tư duy)_     |
 
 ### 🔍 Nhận xét
 
-- _Saṅkappa_ = **hướng nghiêng của tâm**, chưa thành lời
-    
-- “Thought” (PTS) dễ bị hiểu là **dòng suy nghĩ**
-    
+- _Saṅkappa_ = **hướng nghiêng của tâm**, chưa thành lời -> Right intention Chủ-ý hay chủ-tâm. Đây là khuynh hướng tâm lý hay động cơ / Mục đích. 
 
-📌 **Trong thiền:**  
-→ Là **khuynh hướng buông – không sân – không hại**, không phải suy nghĩ đạo đức
+→ Là **khuynh hướng tâm-lý: buông bỏ – không sân – không hại**, không phải những suy nghĩ đạo đức
 
 ---
 
