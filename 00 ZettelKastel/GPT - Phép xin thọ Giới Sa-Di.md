@@ -27,7 +27,9 @@ Anuggahaṃ katvā sīlaṃ detha me, bhante.
 
 Sabba dhukkha nissarana nibbāna  sacchikaranatthāya imam kāsāvam  gahetvā pabbājetha mam bhante,  anukampam upādāya. Dutiyampi  Sabba dhukka nissarana nibbāna  sacchikaranatthāya imam kāsāvam  gahetvā pabbājetha mam bhante,  anukampam upādāya. Tatiyampi Sabba  dhukka nissarana nibbāna  sacchikaranatthāya imam kāsāvam  gahetvā pabbājetha mam bhante,  anukampam upādāya  
 
-Ý nghĩa của việc này là, mong thầy vì  tấm lòng từ chấp nhận con, nhận  những tấm y này và truyền giới cho con  để con có khả nhân thoát mọi khổ đau  và chứng đạt Niết-bàn. Sau đó thỉnh  cầu xin được truyền giới một lần nữa.**
+Ý nghĩa của việc này là: Vì mục đích  sự xuất ly khỏi mọi khổ đau và chứng ngộ Niết-bàn
+   mong thầy nhận  những tấm y này và truyền giới cho con  
+    Sau đó thỉnh  cầu xin được truyền giới một lần nữa.
 
 ---
 Ý của đoạn Pāli này là **lời thỉnh cầu xuất gia (pabbajjā)** của người xin làm Sa-di, được lặp lại **ba lần** theo nghi thức Luật.
