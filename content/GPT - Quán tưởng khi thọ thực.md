@@ -124,25 +124,6 @@ Công thức chuẩn (Pāli – Tứ sự quán):
 
 ---
 
-### 3.2. Đặt kỷ luật nội tâm (không cần giới mới)
-
-Ví dụ:
-
-- Mỗi bữa ăn = **một thời tu**
-    
-- Thức ăn = **đề mục quán**
-    
-- Cảm thọ = **đối tượng minh sát**
-    
-- No – đói = **pháp sinh diệt**
-    
-
-Khi ấy:
-
-> **Ăn không còn là tiêu thụ → mà là đoạn trừ.**
-
----
-
 ## 4. Kết luận (chốt vấn đề)
 
 - Đức Phật **không lập giới nặng**,  
@@ -161,12 +142,6 @@ Khi ấy:
     
     > **mỗi muỗng cơm là một bước giải thoát**
     
-
----
-
-Dưới đây là phân tích **rõ – sâu – đúng Luật & đúng Pháp** về  
-**sự khác nhau giữa _ăn có giới_ (sīla) và _ăn có tuệ_ (paññā)**.  
-Đây là chỗ **then chốt quyết định người tu đang “giữ hình thức” hay “đi vào giải thoát”**.
 
 ---
 
@@ -325,26 +300,5 @@ Vì:
 > **Ăn có tuệ là điều kiện đủ**
 
 ---
-
-
-
-
-
-|                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| There are suitable and unsuitable matters concerning the consumption of food. Village kids who receive food will fight among themselves and eat playfully. It is not proper for bhikkhūs to consume food in such a manner. It is improper to consume food given by devotees in order to build up strength as done by wrestlers and soldiers. It is improper to consume food supplied by devotees to build up the body and grow fat. | Có những vấn đề phù hợp và không phù hợp liên quan đến việc thọ dụng vật thực. Những đứa trẻ trong làng nhận được thức ăn chúng đánh nhau tranh dành miếng ăn một cách tinh nghịch. Không đúng đắn cho vị tỳ khưu thọ dụng vật thực như trò chơi của lũ trẻ. Không đúng đắn cho vị Tỳ Khưu thọ dụng vật thực cúng dường bởi thí chủ để nhằm tăng cường sức mạnh như đô vật hay binh sĩ. Không đúng đắn cho vị Tỳ Khưu thọ dụng vật thực cúng dường bởi thí chủ để nhằm giứp thân thể phát triển mập mạp. |
-| Consuming food supplied by devotees to make the body beautiful like prostitutes do, is not proper.                                                                                                                                                                                                                                                                                                                                  | Không đúng đắn cho vị Tỳ Khưu thọ dụng vật thực cúng dường bởi thí chủ để làm đẹp cho thân như kỹ nữ.                                                                                                                                                                                                                                                                                                                                                                                                    |
-| It is proper to consume food given by devotees in order to maintain the body and life. Consuming food to overcome hunger is suitable. It is not possible to conduct proper practice in the sāsana without taking food.                                                                                                                                                                                                              | Phù hợp cho vị Tỳ Khưu thọ dụng vật thực cúng dường bởi thí chủ chỉ để nhằm duy trì thân và mạng sống. Thọ dụng vật thực để vượt qua cơn đói là thích hợp. Không thể thực hành đúng phẩm hạnh trong Giáo Pháp Thế Tôn mà không thọ dụng vật thực.                                                                                                                                                                                                                                                        |
-| It is proper to consume food for the purpose of performing bhikkhu practices in the sāsana. Consuming food wisely will overcome hunger. Consuming food with due regard for the pain arising from over eating is proper.                                                                                                                                                                                                             | Đúng cho cho vị tỳ khưu thọ dụng vật thực nhằm thực hành phạm hạnh, giới luật trong giáo pháp của Đức Phật. Thọ dụng vật thực có trí tuệ sẽ vượt qua cơn đói. Đúng đắn cho việc thọ dụng vật thực để điều trị cơn đau. Phù hợp cho việc thọ dụng vật thực với sự quán xét thọ dụng đúng số lượng vật thực để duy trì sự sống lâu dài.                                                                                                                                                                    |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                     |  _Họ ăn món ăn có phải để vui chơi? Hay họ ăn món ăn để tham đắm? Hay họ ăn món ăn để trang sức? Hay họ ăn món ăn để béo tốt?_                                                                                                                                                                                                                                                                                                                                                                           |
-
-
-
-
-
-
-
-
-
 
 [[Dhamma's items]]
